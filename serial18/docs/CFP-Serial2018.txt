@@ -1,0 +1,81 @@
+2nd Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers 
+SERIAL - Scalable and Resilient InfrAstructures for distributed Ledgers
+
+Colocated with Middleware 2018
+December 10-14th 2018- Rennes, France
+
+IMPORTANT DATES (GMT/UTC-12) 
+
+NEW: September 7, 2018 - Paper submission
+September 28, 2018     - Notification of acceptance
+
+With the rise of digital currencies and distributed ledger infrastructures, a multitude of novel application scenarios are currently discussed and evaluated. In essence, these technologies will crosscut and change a large variety of digital interactions. At the same time, the underlying infrastructures are rapidly developed and deployed. Thereby, their resilience and scalability is key for success. 
+ 
+The 2nd Workshop for Scalable Resilient Infrastructures targets to investigate system support to foster resilience and scalability of decentralized infrastructures such as distributed ledger
+ecosystems but also addresses resilience support for more traditional Internet-based services. 
+
+Topics of interest include but are not limited to:
+System support for blockchain
+System support for resource-limited devices and blockchain
+Resilient agreement protocols 
+Trusted execution for improved resilience of decentralized infrastructures
+Blockchain consistency
+Cryptocurrency attacks and incentives
+Smart contract performance and security
+Blockchain soft and hard forks
+Anonymity and confidentiality in distributed ledgers
+Governance of distributed ledgers
+Scalability of distributed ledgers
+ 
+
+The goal of the workshop is to foster collaboration and discussion among researchers and practitioners in this field. The workshop will be one full day. The program should primarily include presentations by authors of accepted papers (the workshop will have proceedings in the ACM digital library). Other elements will be one or two invited presentations and a panel ending the day
+with an open discussion with the workshop audience.
+
+WORKSHOP CO-CHAIRS
+
+
+Francois Taiani, Univ Rennes, IRISA, CNRS, Inria
+Franz J. Hauck, Ulm University
+Ruediger Kapitza, TU Braunschweig
+
+
+
+
+
+PROGRAM COMMITTEE 
+
+
+Alysson Bessani (Universidade de Lisboa)
+Emmanuelle Anceaume (Univ Rennes/IRISA/CNRS/Inria)
+Ghassan Karame (NEC Labs)
+Hans P. Reiser (University of Passau)
+Kaiwen Zhang (ETS/University of Quebec)
+Maria Potop-Butucaru (Sorbonne University)
+Marko Vukolic (IBM Zurich)
+Massimo Bartoletti (University of Cagliari)
+Miguel P. Correia (INESC-ID/Instituto Superior Tecnico)
+Mohammad Sadoghi (University of California)
+Romaric Ludinard (IMT Atlantique)
+Sara Tucci Piergiovanni (CEA-LIST)
+Vincent Gramoli (University of Sydney)
+
+
+
+
+  
+
+SUBMISSION AND PUBLICATION 
+
+SERIAL welcomes submissions in two formats:
+
+- Regular research papers of at most 6 pages including references. Research papers should be work that is not previously published or concurrently submitted elsewhere and will be published in the proceedings.
+
+- Short research statements of at most 1-2 pages. Research statements aim at fostering discussion and collaboration. Research statements may summarize research published elsewhere or outline new emerging ideas. Authors can *choose* if accepted research statements should be published in the proceedings.
+
+
+All submissions should be in PDF and must follow the ACM SIGPLAN format (http://www.acm.org/publications/proceedings-template).
+Reviewing is single-blind, and the names and affiliations of the authors must appear in the submitted papers. Each paper will receive at least three reviews from members of the program committee. Submissions that do not respect the formatting requirement may be rejected without review.
+
+Submissions site: https://serial18.hotcrp.com
+
+
