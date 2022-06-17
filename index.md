@@ -41,11 +41,11 @@ Reviewing is single-blind. This means that the names and affiliations of the aut
 
 We aim to follow the schedule proposed by middleware for research papers to be published in proceedings. Since position papers do not require a camera-ready, we aim for a later deadline, to allow fresh ideas to be proposed
 
-* Research paper submission: August 31, 2022
-* Research paper notification: September 23, 2022
-* Camera-ready due: October 3, 2022
-* Position paper submission: September 30, 2022
-* Position paper notification: October 14, 2022
+* Research paper submission: 31 August 2022
+* Research paper notification: 23 September 2022
+* Camera-ready due: 3 October 2022
+* Position paper submission: 30 September 2022
+* Position paper notification: 14 October 2022
 
 ### Committees
 
@@ -57,11 +57,11 @@ We aim to follow the schedule proposed by middleware for research papers to be p
 
 * Hein Meling (University of Stavanger)
 * Roman Vitenberg (University of Oslo)
-* Kaiwen Zhang, ÉTS
+* Kaiwen Zhang (ÉTS)
 * Pierre-Lous Aublin (Keio University)
 * Sonia Ben Mokhtar (CNRS, Lyon)
 * Alysson Bessani (LaSIGE, Faculdade de Ciências, Universidade de Lisboa)
 
 
 
-Image by <a href="https://pixabay.com/users/goguin-15784481/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5154172">goguin</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5154172">Pixabay</a>
+Header image by <a href="https://pixabay.com/users/goguin-15784481/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5154172">goguin</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5154172">Pixabay</a>
