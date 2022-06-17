@@ -1,0 +1,95 @@
+---------------------------------------------------------------------------
+SERIAL – 4th Workshop on Scalable and 
+Resilient Infrastructures for Distributed Ledgers
+
+https://serial.ibr.cs.tu-bs.de/serial20
+
+Colocated with Middleware 2020
+December 7-11th 2020 – TU Delft, The Netherlands
+---------------------------------------------------------------------------
+
+CALL FOR PAPERS
+
+With the rise of digital currencies and distributed ledger
+infrastructures, a multitude of novel application scenarios are currently
+being discussed and evaluated. In essence, these technologies promise
+to crosscut and change a large variety of digital interactions. At the
+same time, the underlying infrastructures supporting these technologies
+are rapidly being developed and deployed, and their resilience and
+scalability is key for success.
+
+The already 4th SERIAL workshop, once again colocated with the Middleware
+conference, continues the successful series of scientific forums
+addressing the above themes. It aims to investigate system support to
+foster resilience and scalability of decentralized infrastructures such
+as distributed ledger ecosystems, but also addresses resilience support
+for more traditional Internet-based services.
+
+Topics of interest include but are not limited to:
+
+ * System support for blockchains
+ * System support for resource-limited devices and blockchains
+ * Resilient agreement protocols
+ * Trusted execution for improved resilience of decentralized infrastructures
+ * Blockchain consistency
+ * Cryptocurrency attacks and incentives
+ * Smart contract performance and security
+ * Blockchain soft and hard forks
+ * Anonymity and confidentiality in distributed ledgers
+ * Governance of distributed ledgers
+ * Scalability of distributed ledgers
+
+The goal of the workshop is to foster collaboration and discussion among
+researchers and practitioners in this field. The workshop will be one
+full day. The program should primarily include presentations by authors
+of accepted papers (the workshop will have proceedings in the ACM digital
+library). Other elements will be one or two invited presentations and
+a panel ending the day with an open discussion with the workshop audience.
+
+IMPORTANT DATES 
+
+September 5, 2020 – Paper submission (AoE) (extended)
+September 25, 2020 – Notification of acceptance
+October 9, 2020 – Camera ready version
+
+WORKSHOP CO-CHAIRS
+
+ * François Taïani (Univ Rennes, Inria, CNRS, IRISA)
+ * Zsolt István (IMDEA Software)
+ * Franz J. Hauck (Ulm University)
+
+PROGRAM COMMITTEE 
+
+ * Mohammad Javad Amiri (Uuniversity of California, Santa Barbara)
+ * Pierre-Louis Aublin (Keio University)
+ * Sonia Ben Mohktar (CNRS, Lyon)
+ * Alysson Bessani (LaSIGE, Faculdade de Ciências, Universidade de Lisboa)
+ * Manuel Bravo (IMDEA Software, Madrid)
+ * Davide Frey (INRIA, Rennes)
+ * Sarunas Girdyijauska (KTH, Stockholm)
+ * Kari Kostiainen (ETH Zurich)
+ * Mohammad Sadoghi (University of California, Davis)
+
+SUBMISSION AND PUBLICATION
+
+We welcome submissions in two formats:
+ - Regular research papers: at most 4 pages including references
+   (previously unpublished work, will be published in proceedings) 
+ - Extended abstract: Position Papers, Controversial Ideas and Summary of
+   already published work. 1-2 pages including references
+   (will *not* be published in proceedings but will be presented during
+   the workshop)
+
+Submitted papers must adhere to the formatting instructions of the ACM
+SIGPLAN style, which can be found on the ACM template page. Authors are
+further strongly encouraged to use a 10pt font instead of 9pt one.
+
+Submissions should be in PDF and entered on the submission page: 
+https://serial20.hotcrp.com/paper/new
+
+Reviewing is single blind. This means that the names and affiliations of
+the authors must appear in the submitted papers. Each paper will receive
+at least three reviews from members of the program committee. Submissions
+that do not respect the formatting requirements may be rejected without
+review.
+
