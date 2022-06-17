@@ -1,1 +1,15 @@
 theme: jekyll-theme-cayman
+title: SERIAL 2022
+description: 5th Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers
+conference_location: Québec City, Québec, Canada
+conference_date: 7 November 2022 - 11 November 2022
+conference_colocated: Colocated with Middleware 2022
+top_navs:
+  - title: "Call For Paper"
+    anchor: "#call-for-papers"
+  - title: "Submission"
+    anchor: "#submission-guidelines"
+  - title: "Important dates"
+    anchor: "#important-dates"
+  - title: "Committees"
+    anchor: "#committees"
