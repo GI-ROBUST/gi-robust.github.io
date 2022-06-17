@@ -9,14 +9,19 @@ conference_colocated_url2022: https://middleware-conf.github.io/2022/
 top_navs2022:
   - title: "Call For Paper"
     anchor: "#call-for-papers"
+    new_tab: false
   - title: "Submission"
     anchor: "#submission-guidelines"
+    new_tab: false
   - title: "Important dates"
     anchor: "#important-dates"
+    new_tab: false
   - title: "Committees"
     anchor: "#committees"
+    new_tab: false
   - title: "SERIAL 2020"
-    anchor: "https://serial.ibr.cs.tu-bs.de/serial20/"
+    anchor: "/serial20/"
+    new_tab: true
 
 # title2023: SERIAL 2023
 # description2023: 6th Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers

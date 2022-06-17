@@ -28,7 +28,7 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
             {% for nav in site.top_navs2023 %}
-              {% if nav.anchor contains "http" %}
+              {% if nav.new_tab %}
                 <a class="nav-link" href="{{ nav.anchor }}" target="_blank">{{ nav.title }}</a>
               {% else %}
                 <a class="nav-link" href="{{ nav.anchor }}">{{ nav.title }}</a>
@@ -45,7 +45,7 @@
     <div class="jumbotron text-white jumbotron-image shadow vertical-center">
       <div class="container-s header">
         <h1 class="project-name">{{ site.title2023 }}</h1>
-        <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        <h2 class="project-tagline">{{ page.description | default: site.description2023 | default: site.github.project_tagline }}</h2>
         <h2 class="project-tagline">{{ site.conference_date2023 }} | {{ site.conference_location2023 }}<br>
           Colocated with <a href="{{ site.conference_colocated_url2023 }}" class="conference_colocated" target="_blank">{{ site.conference_colocated2023 }}</a></h2>
       </div>

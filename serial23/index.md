@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: 2023
 ---
 
 
-<!-- ### About the Workshop
+### About the Workshop
 
 With the rise of digital currencies and distributed ledger infrastructures, a multitude of novel application scenarios are currently being discussed and evaluated. In essence, these technologies promise to crosscut and change a large variety of digital interactions. At the same time, the underlying infrastructures supporting these technologies are rapidly being developed and deployed, and their resilience and scalability is key to success.
 
