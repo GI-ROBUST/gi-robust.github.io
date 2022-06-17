@@ -4,13 +4,15 @@ With the rise of digital currencies and distributed ledger infrastructures, a mu
 
 After one year break, due to the pandemic, the 5th SERIAL workshop hopes to continue the successful series of scientific forums addressing the above themes. It aims to investigate system support to foster resilience and scalability of decentralized infrastructures such as distributed ledger ecosystems, but also addresses resilience support for more traditional Internet-based services.
 
+To facilitate a discussion on the maturity of existing infrastructure, we want to especially invite works exploring novel use cases and application scenarios of distributed ledger infrastructure and their requirements. Besides well established use cases like decentralized finance and supply chain management we especially welcome applications to novel domains like education, social networks and cloud storage.
+
 <!-- ### History
 
 This is the 5th version of the SERIAL workshop, which was previously organized at Middleware. In 2021 the workshop did take a break, due to the pandemic. Franz J. Hauck, the initiator of the workshop will support the organisers with advice, ensuring continuity with previous workshops. -->
 
 ### Call for Papers
 
-#### Background, aim, and scope
+#### Topics
 
 Topics of interest include but are not limited to:
 
@@ -25,6 +27,8 @@ Topics of interest include but are not limited to:
 * Anonymity and confidentiality in distributed ledgers
 * Governance of distributed ledgers
 * Scalability of distributed ledgers
+* Use cases
+* Novel application scenarios
 
 The goal of the workshop is to foster collaboration and discussion among researchers and practitioners in this field. The workshop will be one full day. The program should primarily include presentations by authors of accepted papers (the workshop will have proceedings in the ACM digital library). Other elements will be one or two invited presentations and a panel ending the day with an open discussion with the workshop audience.
 
