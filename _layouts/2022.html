@@ -2,13 +2,13 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-    <title>{{ site.title }} | {{ site.description }}</title>
+    <title>{{ site.title2022 }} | {{ site.description2022 }}</title>
 
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="{{ site.title }} | {{ site.description }}" />
-    <meta property="og:description" content="{{ site.description }}" />
-    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:title" content="{{ site.title2022 }} | {{ site.description2022 }}" />
+    <meta property="og:description" content="{{ site.description2022 }}" />
+    <meta property="og:site_name" content="{{ site.title2022 }}" />
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
@@ -21,13 +21,13 @@
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">{{ site.title }}</a>
+        <a class="navbar-brand" href="#">{{ site.title2022 }}</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
-            {% for nav in site.top_navs %}
+            {% for nav in site.top_navs2022 %}
               {% if nav.anchor contains "http" %}
                 <a class="nav-link" href="{{ nav.anchor }}" target="_blank">{{ nav.title }}</a>
               {% else %}
@@ -44,10 +44,10 @@
 
     <div class="jumbotron text-white jumbotron-image shadow vertical-center">
       <div class="container-s header">
-        <h1 class="project-name">{{ site.title }}</h1>
+        <h1 class="project-name">{{ site.title2022 }}</h1>
         <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-        <h2 class="project-tagline">{{ site.conference_date }} | {{ site.conference_location}}<br>
-          Colocated with <a href="{{ site.conference_colocated_url }}" class="conference_colocated" target="_blank">{{ site.conference_colocated}}</a></h2>
+        <h2 class="project-tagline">{{ site.conference_date2022 }} | {{ site.conference_location2022 }}<br>
+          Colocated with <a href="{{ site.conference_colocated_url2022 }}" class="conference_colocated" target="_blank">{{ site.conference_colocated2022 }}</a></h2>
       </div>
     </div>
 
