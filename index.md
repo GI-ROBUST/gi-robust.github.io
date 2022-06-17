@@ -4,9 +4,9 @@ With the rise of digital currencies and distributed ledger infrastructures, a mu
 
 After one year break, due to the pandemic, the 5th SERIAL workshop hopes to continue the successful series of scientific forums addressing the above themes. It aims to investigate system support to foster resilience and scalability of decentralized infrastructures such as distributed ledger ecosystems, but also addresses resilience support for more traditional Internet-based services.
 
-### History
+<!-- ### History
 
-This is the 5th version of the SERIAL workshop, which was previously organized at Middleware. In 2021 the workshop did take a break, due to the pandemic. Franz J. Hauck, the initiator of the workshop will support the organisers with advice, ensuring continuity with previous workshops.
+This is the 5th version of the SERIAL workshop, which was previously organized at Middleware. In 2021 the workshop did take a break, due to the pandemic. Franz J. Hauck, the initiator of the workshop will support the organisers with advice, ensuring continuity with previous workshops. -->
 
 ### Call for Papers
 
@@ -17,7 +17,8 @@ Topics of interest include but are not limited to:
 * System support for blockchain
 * System support for resource-limited devices and blockchain
 * Resilient agreement protocols
-* Trusted execution for improved resilience of decentralized infrastructures * Blockchain consistency
+* Trusted execution for improved resilience of decentralized infrastructures 
+* Blockchain consistency
 * Cryptocurrency attacks and incentives
 * Smart contract performance and security
 * Blockchain soft and hard forks

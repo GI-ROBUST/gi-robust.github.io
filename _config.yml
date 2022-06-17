@@ -14,3 +14,5 @@ top_navs:
     anchor: "#important-dates"
   - title: "Committees"
     anchor: "#committees"
+  - title: "SERIAL 2020"
+    anchor: "https://serial.ibr.cs.tu-bs.de/serial20/"
