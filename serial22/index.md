@@ -64,13 +64,13 @@ We aim to follow the schedule proposed by middleware for research papers to be p
 
 #### Preliminary PC Members
 
-* Hein Meling (University of Stavanger)
-* Roman Vitenberg (University of Oslo)
-* Kaiwen Zhang (ÉTS)
 * Pierre-Lous Aublin (Keio University)
 * Sonia Ben Mokhtar (CNRS, Lyon)
 * Alysson Bessani (LaSIGE, Faculdade de Ciências, Universidade de Lisboa)
-
+* Franz J. Hauck (Ulm University)
+* Hein Meling (University of Stavanger)
+* Roman Vitenberg (University of Oslo)
+* Kaiwen Zhang (ÉTS)
 
 
 Header image by <a href="https://pixabay.com/users/goguin-15784481/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5154172">goguin</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5154172">Pixabay</a>
