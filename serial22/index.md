@@ -70,6 +70,7 @@ We aim to follow the schedule proposed by middleware for research papers to be p
 * Franz J. Hauck (Ulm University)
 * Hein Meling (University of Stavanger)
 * Roman Vitenberg (University of Oslo)
+* Thiago Garrett (University of Oslo)
 * Kaiwen Zhang (ÉTS)
 
 
