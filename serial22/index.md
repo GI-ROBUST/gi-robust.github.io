@@ -73,5 +73,4 @@ We aim to follow the schedule proposed by middleware for research papers to be p
 * Thiago Garrett (University of Oslo)
 * Kaiwen Zhang (ÉTS)
 
-
-Header image by <a href="https://pixabay.com/users/goguin-15784481/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5154172">goguin</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5154172">Pixabay</a>
+Header image by <a target="_blank" href="https://www.flickr.com/photos/antoinejamin/">Antoine Jamin</a> from <a target="_blank" href="https://www.flickr.com/photos/antoinejamin/22022073083/in/photolist-zy1T6e-5oRDoM-2e6NhDA-oU5wtT-pzDn6k-pyr1N5-pQDhKD-ULhKbZ-pNMwYQ-pyqXrq-5ojvLd-3EHCtc-pQDi7k-2hfMBUb-pQXdPY-27mVwKR-oU2uTW-pQSYBa-pQXeVf-6NdYyy-pyooj8-2fqCUdh-T4wAJm-6N9Mp8-6Ne3cJ-6N9PMX-6Ne3zb-6N9Q9n-6N9NrV-6N9RgZ-6N9R98-2671boN-2hCE7h3-6Ne1rC-6NdZsj-6N9P38-6N9NHp-RyuWnK-6Ne2yb-6N9PuX-pQDh4i-6NdZYh-6NdYiE-oU2wHC-6NdYW7-6N9LQH-6N9Qvr-oU2wk3-6NdZ4W-6N9PnV/">flickr</a>
