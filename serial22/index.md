@@ -64,7 +64,7 @@ We aim to follow the schedule proposed by middleware for research papers to be p
 
 #### Preliminary PC Members
 
-* Pierre-Lous Aublin (Keio University)
+* Pierre-Lous Aublin (IIJ Research Laboratory)
 * Sonia Ben Mokhtar (CNRS, Lyon)
 * Alysson Bessani (LaSIGE, Faculdade de Ciências, Universidade de Lisboa)
 * Franz J. Hauck (Ulm University)
