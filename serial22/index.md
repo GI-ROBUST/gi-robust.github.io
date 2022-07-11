@@ -46,6 +46,8 @@ statements aim at fostering discussion and collaboration. They may summarize res
 
 Reviewing is single-blind. This means that the names and affiliations of the authors must appear in the submitted papers. Each paper will receive at least three reviews from members of the program committee.
 
+Please submit your paper via hotcrp: https://serial22.hotcrp.com/
+
 #### Important dates
 
 We aim to follow the schedule proposed by middleware for research papers to be published in proceedings. Since position papers do not require a camera-ready, we aim for a later deadline, to allow fresh ideas to be proposed
