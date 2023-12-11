@@ -1,12 +1,12 @@
 theme: jekyll-theme-cayman
 
-title2022: SERIAL 2022
-description2022: 5th Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers
-conference_location2022: Québec City, Québec, Canada
-conference_date2022: 7 - 11 November 2022
-conference_colocated2022: Middleware 2022
-conference_colocated_url2022: https://middleware-conf.github.io/2022/
-top_navs2022:
+title2024: SERIAL 2024
+description2024: 5th Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers
+conference_location2024: Québec City, Québec, Canada
+conference_date2024: 7 - 11 November 2024
+conference_colocated2024: Middleware 2024
+conference_colocated_url2024: https://middleware-conf.github.io/2024/
+top_navs2024:
   - title: "Call For Paper"
     anchor: "#call-for-papers"
     new_tab: false
@@ -26,9 +26,9 @@ top_navs2022:
 # title2023: SERIAL 2023
 # description2023: 6th Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers
 # conference_location2023: Québec City, Québec, Canada
-# conference_date2023: 7 - 11 November 2022
-# conference_colocated2023: Middleware 2022
-# conference_colocated_url2023: https://middleware-conf.github.io/2022/
+# conference_date2023: 7 - 11 November 2024
+# conference_colocated2023: Middleware 2024
+# conference_colocated_url2023: https://middleware-conf.github.io/2024/
 # top_navs2023:
 #   - title: "Call For Paper"
 #     anchor: "#call-for-papers"
@@ -38,5 +38,5 @@ top_navs2022:
 #     anchor: "#important-dates"
 #   - title: "Committees"
 #     anchor: "#committees"
-#   - title: "SERIAL 2022"
+#   - title: "SERIAL 2024"
 #     anchor: "https://serial.ibr.cs.tu-bs.de/serial20/"
