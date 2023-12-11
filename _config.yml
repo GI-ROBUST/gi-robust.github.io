@@ -1,11 +1,9 @@
 theme: jekyll-theme-cayman
 
-title2024: SERIAL 2024
-description2024: 5th Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers
-conference_location2024: Québec City, Québec, Canada
-conference_date2024: 7 - 11 November 2024
-conference_colocated2024: Middleware 2024
-conference_colocated_url2024: https://middleware-conf.github.io/2024/
+title2024: ROBUST 2024
+description2024: Resilient Operations - Byzantine Fault Tolerance and State-Machine Replication
+conference_location2024: in Erlangen, Germany
+conference_date2024: March 13 and 14, 2024
 top_navs2024:
   - title: "Call For Paper"
     anchor: "#call-for-papers"
@@ -19,11 +17,8 @@ top_navs2024:
   - title: "Committees"
     anchor: "#committees"
     new_tab: false
-  - title: "SERIAL 2020"
-    anchor: "/serial20/"
-    new_tab: true
 
-# title2023: SERIAL 2023
+# title2023: ROBUST 2023
 # description2023: 6th Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers
 # conference_location2023: Québec City, Québec, Canada
 # conference_date2023: 7 - 11 November 2024
@@ -38,5 +33,5 @@ top_navs2024:
 #     anchor: "#important-dates"
 #   - title: "Committees"
 #     anchor: "#committees"
-#   - title: "SERIAL 2024"
-#     anchor: "https://serial.ibr.cs.tu-bs.de/serial20/"
+#   - title: "ROBUST 2024"
+#     anchor: "https://ROBUST.ibr.cs.tu-bs.de/ROBUST20/"
