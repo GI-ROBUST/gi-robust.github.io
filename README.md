@@ -1,4 +1,4 @@
-# SERIAL Workshop Website
+# Robust 2024 Workshop Website
 
 ## Local build
 ```
