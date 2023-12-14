@@ -44,8 +44,8 @@ If you want to give a presentation on new results, please submit an abstract des
 ### Program Committee
 
 
-* PD Dr.-Ing. habil. Tobias Distler, FAU, Erlangen (Local Organiser)
-* Prof. Dr.-Ing. Franz J. Hauck, Ulm University (Chair)
-* Prof. Dr. Rüdiger Kapitza, FAU, Erlangen (Local Organiser)
-* Prof. Dr. Hans P. Reiser, Reykjavík University
-* Hein Meling (University of Stavanger)
+* Tobias Distler, FAU, Erlangen (Local Organiser)
+* Franz J. Hauck, Ulm University (Chair)
+* Rüdiger Kapitza, FAU, Erlangen (Local Organiser)
+* Hans P. Reiser, Reykjavík University
+* Hein Meling, University of Stavanger
