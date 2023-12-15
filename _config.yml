@@ -9,13 +9,13 @@ top_navs2024:
     anchor: "#call-for-papers"
     new_tab: false
   - title: "Submission"
-    anchor: "#submission-guidelines"
+    anchor: "#contributions"
     new_tab: false
   - title: "Important dates"
     anchor: "#important-dates"
     new_tab: false
-  - title: "Committees"
-    anchor: "#committees"
+  - title: "Program Committee"
+    anchor: "#program-committee"
     new_tab: false
 
 # title2023: ROBUST 2023
