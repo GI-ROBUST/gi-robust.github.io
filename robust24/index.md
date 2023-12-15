@@ -36,7 +36,9 @@ After each presentation there will be time for discussions. The event is planned
 If you want to give a presentation on new results, please submit an abstract (1 to 2 pages) describing your talk before the deadline. 
 Alternatively, you could submit a short paper (6 to 8 pages) that in case of acceptance will be published as LNI proceedings. 
 
-We recommend English submissions and English presentations, as far as possible.
+We recommend English submissions and English presentations, as far as possible. Submissions have to be sent to the following email adress:
+
+[robust2024@lists.informatik.uni-erlangen.de](mailto://robust2024@lists.informatik.uni-erlangen.de) 
 
 #### Important dates
 
