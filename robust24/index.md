@@ -33,7 +33,10 @@ After each presentation there will be time for discussions. The event is planned
 
 #### Contributions
 
-If you want to give a presentation on new results, please submit an abstract describing your talk before the deadline. Alternatively, you could submit a short paper (6 to 8 pages) that in case of acceptance will be published as LNI proceedings. We recommend English submissions and English presentations, as far as possible.
+If you want to give a presentation on new results, please submit an abstract (1 to 2 pages) describing your talk before the deadline. 
+Alternatively, you could submit a short paper (6 to 8 pages) that in case of acceptance will be published as LNI proceedings. 
+
+We recommend English submissions and English presentations, as far as possible.
 
 #### Important dates
 
@@ -47,5 +50,6 @@ If you want to give a presentation on new results, please submit an abstract des
 * Tobias Distler, FAU, Erlangen (Local Organiser)
 * Franz J. Hauck, Ulm University (Chair)
 * Rüdiger Kapitza, FAU, Erlangen (Local Organiser)
-* Hans P. Reiser, Reykjavík University
 * Hein Meling, University of Stavanger
+* Hans P. Reiser, Reykjavík University
+
