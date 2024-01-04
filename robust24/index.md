@@ -52,6 +52,5 @@ We recommend English submissions and English presentations, as far as possible. 
 * Tobias Distler, FAU, Erlangen (Local Organiser)
 * Franz J. Hauck, Ulm University (Chair)
 * Rüdiger Kapitza, FAU, Erlangen (Local Organiser)
-* Hein Meling, University of Stavanger
 * Hans P. Reiser, Reykjavík University
 
