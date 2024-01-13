@@ -59,16 +59,16 @@ We recommend English submissions and English presentations, as far as possible. 
 
 For your accommodation during the workshop, we recommend considering hotels conveniently located near the Technische Fakultät (workshop venue) or Erlangen Altstadt / Zentrum. Here are some options to choose from:
 
-Hotels near Technische Fakulatät (workshop venue):
+**Hotels near Technische Fakulatät (workshop venue):**
 
-*[The niu Cure](https://the.niu.de/hotels/deutschland/erlangen/the-niu-cure)
-*[Creativhotel Luise](https://www.hotel-luise.de/)
+* [The niu Cure](https://the.niu.de/hotels/deutschland/erlangen/the-niu-cure)
+* [Creativhotel Luise](https://www.hotel-luise.de/)
 
 
-Erlangen Altstadt / Zentrum (city center):
+**Erlangen Altstadt / Zentrum (city center):**
 
-*[NH Hotel Erlangen](https://www.nh-hotels.com/en/hotel/nh-erlangen)
-*[Hotelchen am Theater](www.hotelchen-am-theater.de)
-*[Hotel Rokohaus Erlangen](https://hotel-rokokohaus-erlangen.hotel-mix.de/)
-*[Altstadthotel Grauer Wolf](https://grauer-wolf.de/)
-*[Novotel Erlangen](https://all.accor.com/hotel/5376/index.de.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)
+* [NH Hotel Erlangen](https://www.nh-hotels.com/en/hotel/nh-erlangen)
+* [Hotelchen am Theater](www.hotelchen-am-theater.de)
+* [Hotel Rokohaus Erlangen](https://hotel-rokokohaus-erlangen.hotel-mix.de/)
+* [Altstadthotel Grauer Wolf](https://grauer-wolf.de/)
+* [Novotel Erlangen](https://all.accor.com/hotel/5376/index.de.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)
