@@ -59,7 +59,7 @@ We recommend English submissions and English presentations, as far as possible. 
 
 For your accommodation during the workshop, we recommend considering hotels conveniently located near the Technische Fakultät (workshop venue) or Erlangen Altstadt / Zentrum. Here are some options to choose from:
 
-**Hotels near Technische Fakulatät (workshop venue):**
+**Hotels near Technische Fakultät (workshop venue):**
 
 * [The niu Cure](https://the.niu.de/hotels/deutschland/erlangen/the-niu-cure)
 * [Creativhotel Luise](https://www.hotel-luise.de/)
