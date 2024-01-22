@@ -72,3 +72,11 @@ For your accommodation during the workshop, we recommend considering hotels conv
 * [Hotel Rokohaus Erlangen](https://hotel-rokokohaus-erlangen.hotel-mix.de/)
 * [Altstadthotel Grauer Wolf](https://grauer-wolf.de/)
 * [Novotel Erlangen](https://all.accor.com/hotel/5376/index.de.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)
+
+
+
+### Registration
+
+If you intend to participate in the workshop, please briefly [register here](https://www.betriebssysteme.org/aktivitaeten/treffen/robust2024/) and tell us if you also like to join the social event (evening program) on wednesday.
+
+
