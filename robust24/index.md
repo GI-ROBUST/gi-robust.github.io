@@ -38,11 +38,11 @@ Alternatively, you could submit a short paper (6 to 8 pages) that in case of acc
 
 We recommend English submissions and English presentations, as far as possible. Submissions have to be sent to the following email adress:
 
-[robust2024@lists.informatik.uni-erlangen.de](mailto://robust2024@lists.informatik.uni-erlangen.de) 
+[robust2024@lists.informatik.uni-erlangen.de](mailto:robust2024@lists.informatik.uni-erlangen.de) 
 
 #### Important dates
 
-* Submission Deadline: January 28, 2024
+* Submission Deadline: February 4, 2024
 * Notification: February 12, 2024
 * Workshop: March 13 (Noon) to 14 (Noon), 2024
 
