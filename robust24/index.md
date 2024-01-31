@@ -68,7 +68,7 @@ For your accommodation during the workshop, we recommend considering hotels conv
 **Erlangen Altstadt / Zentrum (city center):**
 
 * [NH Hotel Erlangen](https://www.nh-hotels.com/en/hotel/nh-erlangen)
-* [Hotelchen am Theater](www.hotelchen-am-theater.de)
+* [Hotelchen am Theater](https://hotelchen-am-theater.de)
 * [Hotel Rokohaus Erlangen](https://hotel-rokokohaus-erlangen.hotel-mix.de/)
 * [Altstadthotel Grauer Wolf](https://grauer-wolf.de/)
 * [Novotel Erlangen](https://all.accor.com/hotel/5376/index.de.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)
