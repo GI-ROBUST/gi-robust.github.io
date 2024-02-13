@@ -80,3 +80,51 @@ For your accommodation during the workshop, we recommend considering hotels conv
 If you intend to participate in the workshop, please briefly [register here](https://www.betriebssysteme.org/aktivitaeten/treffen/robust2024/) and tell us if you also like to join the social event (evening program) on wednesday.
 
 
+
+### Program
+
+##### Wednesday (13.03.2024)
+
+###### 13:00 - 15:00, Session 1: Flexible BFT Architectures (Chair: Tobias Distler)
+
+  - **Blazingly Fast BFT Consensus with Mercury**
+  
+    Christian Berger *(University of Passau)*, Lívio Rodrigues *(LASIGE, Universidade de Lisboa)*, Hans P. Reiser *(Reykjavik University, University of Passau)*, Vinícius Cogo *(LASIGE, Universidade de Lisboa)*, Alysson Bessani *(LASIGE, Universidade de Lisboa)*
+    
+  - **A Framework for Consensus-Agnostic State-Machine Replication based on Threshold Signatures**
+  
+    Alexander Heß *(Ulm University)*, Franz J. Hauck *(Ulm University)*
+    
+  - **Tough on the Outside, Reliable on the Inside: Utilizing System Composition for Improved Resilience**
+  
+    Laura Lawniczak *(Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))*, Tobias Distler *(Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))*
+
+###### 15:00 - 15:30, Coffee Break
+
+###### 15:30 - 16:50, Session 2: Leveraging Trusted Execution Environments (Chair: Franz J. Hauck)
+
+  - **On Asynchronous TEE-Based State Machine Replication**
+  
+    Marc Leinweber *(Karlsruhe Institute of Technology (KIT))*, Hannes Hartenstein *(Karlsruhe Institute of Technology (KIT))*
+    
+  - **Cloud-aware BFT Proactive Recovery Using Confidential Computing**
+  
+    Ines Messadi *(Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))*, Rüdiger Kapitza *(Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))*
+
+##### Thursday (14.03.2024)
+
+###### 09:00 - 11:00, Session 3: Formalization & Guaranteed Properties (Chair: Rüdiger Kapitza)
+
+  - **Linearizability and State-Machine Replication**
+  
+    Franz J. Hauck *(Ulm University)*, Alexander Heß *(Ulm University)*
+    
+  - **Towards Coordination-Free Replication and Access Control for Partition-Tolerant Decentralized Systems**
+  
+    Florian Jacob *(Karlsruhe Institute of Technology (KIT))*
+    
+  - **Memory-Efficient Byzantine Fault-Tolerant Replication for Highly Resource-Constrained Systems**
+  
+    Harald Böhm *(Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))*, Tobias Distler *(Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))*
+
+

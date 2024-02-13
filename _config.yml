@@ -22,6 +22,9 @@ top_navs2024:
     new_tab: false
   - title: "Registration"
     anchor: "#registration"
+    new_tab: false
+  - title: "Program"
+    anchor: "#program"
     new_tab: false  
     
     
