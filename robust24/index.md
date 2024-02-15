@@ -110,6 +110,13 @@ If you intend to participate in the workshop, please briefly [register here](htt
   - **Cloud-aware BFT Proactive Recovery Using Confidential Computing**
   
     Ines Messadi *(Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))*, Rüdiger Kapitza *(Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))*
+    
+    
+    
+###### 19:00, Social Event
+
+    - ** Joint dinner in a restaurant in Erlangen **
+    
 
 ##### Thursday (14.03.2024)
 
