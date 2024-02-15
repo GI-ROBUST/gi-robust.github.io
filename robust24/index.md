@@ -115,7 +115,7 @@ If you intend to participate in the workshop, please briefly [register here](htt
     
 ###### 19:00, Social Event
 
-    - ** Joint dinner in a restaurant in Erlangen **
+  - **Joint dinner in a restaurant in Erlangen**
     
 
 ##### Thursday (14.03.2024)
