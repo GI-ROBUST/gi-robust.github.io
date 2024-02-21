@@ -80,6 +80,12 @@ For your accommodation during the workshop, we recommend considering hotels conv
 If you intend to participate in the workshop, please briefly [register here](https://www.betriebssysteme.org/aktivitaeten/treffen/robust2024/) and tell us if you also like to join the social event (evening program) on wednesday.
 
 
+### Venue
+
+Department of Computer Science 16 (System Software)
+Martensstraße 1
+91058 Erlangen
+
 
 ### Program
 
