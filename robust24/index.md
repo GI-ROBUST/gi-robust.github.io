@@ -82,9 +82,9 @@ If you intend to participate in the workshop, please briefly [register here](htt
 
 ### Venue
 
-Department of Computer Science 16 (System Software)
-Martensstraße 1
-91058 Erlangen
+Department of Computer Science 16 (System Software) \
+Martensstraße 1 \
+91058 Erlangen \
 
 
 ### Program
