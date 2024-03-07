@@ -89,20 +89,19 @@ Martensstraße 1 \
 
 ### Program
 
-##### Wednesday (13.03.2024)
+##### Wednesday (13.03.2024) Room: 0.031-113
 
 ###### 13:00 - 15:00, Session 1: Flexible BFT Architectures (Chair: Tobias Distler)
 
-  - **Blazingly Fast BFT Consensus with Mercury**  
- ([<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file.svg" width="20" height="20"> Abstract](/assets/abstracts/Mercury.pdf))
+  - **Blazingly Fast BFT Consensus with Mercury**  ([<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file.svg" width="20" height="20"> Abstract](/assets/abstracts/Mercury.pdf))
   
     Christian Berger *(University of Passau)*, Lívio Rodrigues *(LASIGE, Universidade de Lisboa)*, Hans P. Reiser *(Reykjavik University, University of Passau)*, Vinícius Cogo *(LASIGE, Universidade de Lisboa)*, Alysson Bessani *(LASIGE, Universidade de Lisboa)*
     
-  - **A Framework for Consensus-Agnostic State-Machine Replication based on Threshold Signatures**
+  - **A Framework for Consensus-Agnostic State-Machine Replication based on Threshold Signatures**  ([<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file.svg" width="20" height="20"> Abstract](/assets/abstracts/A_Framework_for_Consensus-Agnostic_State-Machine_Replication.pdf))
   
     Alexander Heß *(Ulm University)*, Franz J. Hauck *(Ulm University)*
     
-  - **Tough on the Outside, Reliable on the Inside: Utilizing System Composition for Improved Resilience**
+  - **Tough on the Outside, Reliable on the Inside: Utilizing System Composition for Improved Resilience**  ([<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file.svg" width="20" height="20"> Abstract](/assets/abstracts/Utilizing_System_Composition_for_Improved_Resilience.pdf))
   
     Laura Lawniczak *(Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))*, Tobias Distler *(Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))*
 
@@ -110,11 +109,11 @@ Martensstraße 1 \
 
 ###### 15:30 - 16:50, Session 2: Leveraging Trusted Execution Environments (Chair: Franz J. Hauck)
 
-  - **On Asynchronous TEE-Based State Machine Replication**
+  - **On Asynchronous TEE-Based State Machine Replication**  ([<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file.svg" width="20" height="20"> Abstract](/assets/abstracts/On_Asynchronous_TEE_Based_State_Machine_Replication.pdf))
   
     Marc Leinweber *(Karlsruhe Institute of Technology (KIT))*, Hannes Hartenstein *(Karlsruhe Institute of Technology (KIT))*
     
-  - **Cloud-aware BFT Proactive Recovery Using Confidential Computing**
+  - **Cloud-aware BFT Proactive Recovery Using Confidential Computing**  ([<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file.svg" width="20" height="20"> Abstract](/assets/abstracts/TEE-PR.pdf))
   
     Ines Messadi *(Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))*, Rüdiger Kapitza *(Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))*
     
@@ -125,19 +124,19 @@ Martensstraße 1 \
   - **Joint dinner in a restaurant in Erlangen**
     
 
-##### Thursday (14.03.2024)
+##### Thursday (14.03.2024) Room: 0.035-113
 
 ###### 09:00 - 11:00, Session 3: Formalization & Guaranteed Properties (Chair: Rüdiger Kapitza)
 
-  - **Linearizability and State-Machine Replication**
+  - **Linearizability and State-Machine Replication**  ([<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file.svg" width="20" height="20"> Abstract](/assets/abstracts/Linearizability_and_State-Machine_Replication.pdf))
   
     Franz J. Hauck *(Ulm University)*, Alexander Heß *(Ulm University)*
     
-  - **Towards Coordination-Free Replication and Access Control for Partition-Tolerant Decentralized Systems**
+  - **Towards Coordination-Free Replication and Access Control for Partition-Tolerant Decentralized Systems**  ([<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file.svg" width="20" height="20"> Abstract](/assets/abstracts/Towards_Coordination-Free_Replication_and_Access_Control.pdf))
   
     Florian Jacob *(Karlsruhe Institute of Technology (KIT))*
     
-  - **Memory-Efficient Byzantine Fault-Tolerant Replication for Highly Resource-Constrained Systems**
+  - **Memory-Efficient Byzantine Fault-Tolerant Replication for Highly Resource-Constrained Systems**  ([<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file.svg" width="20" height="20"> Abstract](/assets/abstracts/memory-efficient-bft.pdf))
   
     Harald Böhm *(Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))*, Tobias Distler *(Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU))*
 
