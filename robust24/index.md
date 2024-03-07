@@ -86,6 +86,9 @@ Department of Computer Science 16 (System Software) \
 Martensstraße 1 \
 91058 Erlangen 
 
+Wednesday: Room number  0.031-113
+Thursday: Room number 0.035-113
+
 
 ### Program
 
