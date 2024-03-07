@@ -93,7 +93,7 @@ Martensstraße 1 \
 
 ###### 13:00 - 15:00, Session 1: Flexible BFT Architectures (Chair: Tobias Distler)
 
-  - **Blazingly Fast BFT Consensus with Mercury**
+  - **Blazingly Fast BFT Consensus with Mercury**  [Abstract](/assets/abstracts/Mercury.pdf)
   
     Christian Berger *(University of Passau)*, Lívio Rodrigues *(LASIGE, Universidade de Lisboa)*, Hans P. Reiser *(Reykjavik University, University of Passau)*, Vinícius Cogo *(LASIGE, Universidade de Lisboa)*, Alysson Bessani *(LASIGE, Universidade de Lisboa)*
     
