@@ -124,7 +124,7 @@ Thursday: Room number 0.035-113
     
 ###### 19:00, Social Event
 
-  - **Joint dinner in a restaurant in Erlangen**
+  - **Joint dinner in a restaurant in Erlangen** ([zum Pleitegeier](https://zum-pleitegeier.de/speisekarte-erlangen-bar-kneipe-restaurant/))
     
 
 ##### Thursday (14.03.2024) Room: 0.035-113
