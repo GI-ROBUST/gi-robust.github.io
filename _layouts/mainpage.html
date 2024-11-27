@@ -42,10 +42,11 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
 
-    <div class="jumbotron text-white jumbotron-image shadow">
-      <div class="container-s header align-top">
-        <h1 class="project-name">{{ page.title }}</h1>
-        <div class="project-tagline">{{ page.description | default: site.description }} <br/> @ {{ page.conference_location }} — {{ page.conference_date }}</div>
+      <div class="jumbotron text-white jumbotron-image shadow">
+        <div class="header">
+          <h1 class="project-name">{{ page.title }}</h1>
+          <div class="project-tagline">{{ page.description | default: site.description }} <br/> @ {{ page.conference_location }} — {{ page.conference_date }}</div>
+        </div>
       </div>
     </div>
 
@@ -53,6 +54,7 @@
       {{ content }}
 
       <footer class="site-footer">
+        {{ page.footer }}
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
