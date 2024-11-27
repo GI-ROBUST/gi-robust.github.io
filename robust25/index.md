@@ -73,6 +73,7 @@ We plan with presentations of about 25min length joined by 15min of discussion, 
 
 If you want to give a presentation, please submit an abstract describing your talk before the deadline.
 We accept up to two pages in the Lecture Notes on Informatics format ([CTAN](https://www.ctan.org/pkg/lni), [Overleaf](https://www.overleaf.com/latex/templates/template-for-lecture-notes-in-informatics-lni-manuscripts/hydnrjckjwrp)), including bibliography.
+Submissions are not blind.
 We recommend English submissions and English presentations, as far as possible.
 Submissions have to be sent to the following email address:
 
