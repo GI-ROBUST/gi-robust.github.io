@@ -25,12 +25,12 @@ top_navs2024:
     new_tab: false
   - title: "Venue"
     anchor: "#venue"
-    new_tab: false  
+    new_tab: false
   - title: "Program"
     anchor: "#program"
-    new_tab: false  
-    
-    
+    new_tab: false
+
+
 
 # title2023: ROBUST 2023
 # description2023: 6th Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers

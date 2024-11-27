@@ -1,5 +1,10 @@
 ---
-layout: 2024
+layout: mainpage
+background-image: blub.jpg
+title: ROBUST 2025 Workshop
+description: Resilient Operations - Byzantine Fault Tolerance and State-Machine Replication
+conference_location: in Karlsruhe, Germany
+conference_date: March 17 and 18, 2025
 ---
 
 ### Call for Papers

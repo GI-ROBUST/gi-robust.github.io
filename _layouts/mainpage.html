@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | {{ page.description }}</title>
+
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ page.title }} | {{ page.description }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:site_name" content="{{ page.title }}" />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#003865">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom-mainpage.html %}
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">{{ page.title }}</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            {% for nav in page.top_navs %}
+              {% if nav.new_tab %}
+                <a class="nav-link" href="{{ nav.anchor }}" target="_blank">{{ nav.title }}</a>
+              {% else %}
+                <a class="nav-link" href="{{ nav.anchor }}">{{ nav.title }}</a>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+
+    <div class="jumbotron text-white jumbotron-image shadow">
+      <div class="container-s header align-top">
+        <h1 class="project-name">{{ page.title }}</h1>
+        <div class="project-tagline">{{ page.description | default: site.description }} <br/> @ {{ page.conference_location }} from {{ page.conference_date }}</div>
+      </div>
+    </div>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        {% if site.github.is_project_page %}
+          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        {% endif %}
+      </footer>
+    </main>
+  </body>
+</html>
