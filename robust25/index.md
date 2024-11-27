@@ -101,7 +101,7 @@ If you intend to participate in the workshop, please briefly [register here](htt
 
 Karlsruhe Institute of Technology (KIT) \
 [InformatiKOM 2 (Bldg. 50.28)](https://www.kit.edu/campusplan/map.php?id=50.28), Room SR2 \
-Adenauerring 12 \
+Adenauerring 10 \
 76131 Karlsruhe
 
 
