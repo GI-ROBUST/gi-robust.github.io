@@ -1,10 +1,35 @@
 ---
 layout: mainpage
-background-image: blub.jpg
+background-image: assets/fau.jpg
 title: ROBUST 2025 Workshop
 description: Resilient Operations - Byzantine Fault Tolerance and State-Machine Replication
 conference_location: in Karlsruhe, Germany
 conference_date: March 17 and 18, 2025
+top_navs:
+  - title: "Call For Paper"
+    anchor: "#call-for-papers"
+    new_tab: false
+  - title: "Submission"
+    anchor: "#contributions"
+    new_tab: false
+  - title: "Important dates"
+    anchor: "#important-dates"
+    new_tab: false
+  - title: "Program Committee"
+    anchor: "#program-committee"
+    new_tab: false
+  - title: "Accommodation"
+    anchor: "#accommodation"
+    new_tab: false
+  - title: "Registration"
+    anchor: "#registration"
+    new_tab: false
+  - title: "Venue"
+    anchor: "#venue"
+    new_tab: false
+  - title: "Program"
+    anchor: "#program"
+    new_tab: false
 ---
 
 ### Call for Papers
@@ -47,7 +72,7 @@ If you want to give a presentation on new results, please submit an abstract (1 
 We recommend English submissions and English presentations, as far as possible.
 Submissions have to be sent to the following email address:
 
-[robust2024@lists.informatik.uni-erlangen.de](mailto:robust2024@lists.informatik.uni-erlangen.de)
+robust2025<span style="display: none">submission</span>@<span style="display: none">mailing</span>lists.kit.edu
 
 #### Important dates
 
