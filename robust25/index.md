@@ -6,11 +6,8 @@ description: Resilient Operations - Byzantine Fault Tolerance and State-Machine 
 conference_location: KIT Karlsruhe, Germany
 conference_date: March 17 and 18, 2025
 top_navs:
-  - title: "Call For Contributions"
+  - title: "Call for Contributions"
     anchor: "#call-for-contributions"
-    new_tab: false
-  - title: "Submissions"
-    anchor: "#submissions"
     new_tab: false
   - title: "Important dates"
     anchor: "#important-dates"
@@ -18,21 +15,19 @@ top_navs:
   - title: "Program Committee"
     anchor: "#program-committee"
     new_tab: false
-  - title: "Accommodation"
-    anchor: "#accommodation"
-    new_tab: false
   - title: "Registration"
     anchor: "#registration"
     new_tab: false
   - title: "Venue"
     anchor: "#venue"
     new_tab: false
+  - title: "Accommodation"
+    anchor: "#accommodation"
+    new_tab: false
   - title: "Program"
     anchor: "#program"
     new_tab: false
 ---
-
-### Call for Contributions
 
 This workshop is a joint Fachgespräch of the GI special interest groups on Communication and Distributed Systems (KuVS) and Operating Systems (FGBS).
 Topics of interest are Byzantine fault tolerance and state-machine replication.
@@ -63,7 +58,7 @@ Selected areas in the field are given by the following, not necessarily complete
 * Novel application scenarios -->
 
 
-#### Submissions
+### Call for Contributions
 
 We look for presentations on your work, including preliminary results and open questions.
 We plan with presentations of about 25min length joined by 15min of discussion, so that there is plenty of time for a substantial exchange.
@@ -80,14 +75,14 @@ robust2025<span style="display: none">submission</span>@<span style="display: no
 
 
 
-#### Important dates
+### Important dates
 
 * Submission Deadline: February 4, 2025
 * Notification: February 12, 2025
 * Workshop: March 17 (Noon) to 18 (Noon), 2025
 
-### Program Committee
 
+### Program Committee
 
 * Franz J. Hauck, Ulm University (Chair)
 * Hannes Hartenstein, KIT, Karlsruhe (Local Organiser)
@@ -95,6 +90,19 @@ robust2025<span style="display: none">submission</span>@<span style="display: no
 * Rüdiger Kapitza, FAU, Erlangen
 * Hans P. Reiser, Reykjavík University
 * Christian Berger, UP, Passau
+
+
+## Registration
+
+If you intend to participate in the workshop, please briefly [register here](https://www.betriebssysteme.org/aktivitaeten/treffen/robust2025/) and tell us if you also like to join the social event (evening program) on Monday evening.
+
+
+### Venue
+
+Karlsruhe Institute of Technology (KIT) \
+[InformatiKOM 2 (Bldg. 50.28)](https://www.kit.edu/campusplan/map.php?id=50.28), Room SR2 \
+Adenauerring 12 \
+76131 Karlsruhe
 
 
 ### Accommodation
@@ -114,24 +122,10 @@ Here are some options to choose from:
 
 
 
-### Registration
-
-If you intend to participate in the workshop, please briefly [register here](https://www.betriebssysteme.org/aktivitaeten/treffen/robust2025/) and tell us if you also like to join the social event (evening program) on Monday evening.
-
-
-### Venue
-
-Karlsruhe Institute of Technology (KIT) \
-[InformatiKOM 2 (Bldg. 50.28)](https://www.kit.edu/campusplan/map.php?id=50.28), Room SR2 \
-Adenauerring 12 \
-76131 Karlsruhe
-
-
-
-### Program
+## Program
 The event is planned from noon to noon so that there is time to arrive and depart on the same days.
 In the evening, there will be a social event in form of a joint dinner.
 
-##### Monday (2025-03-17)
+### Monday (2025-03-17)
 
-##### Tuesday (2025-03-18)
+### Tuesday (2025-03-18)
