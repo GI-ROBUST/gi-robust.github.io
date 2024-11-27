@@ -3,7 +3,7 @@ layout: mainpage
 background-image: ../robust24/assets/fau.jpg
 title: ROBUST 2025 Workshop
 description: Resilient Operations - Byzantine Fault Tolerance and State-Machine Replication
-conference_location: Karlsruhe, Germany
+conference_location: KIT Karlsruhe, Germany
 conference_date: March 17 and 18, 2025
 top_navs:
   - title: "Call For Papers"
@@ -68,11 +68,18 @@ In the evening there will be a social event in form of a joint dinner.
 
 #### Submissions
 
-If you want to give a presentation on new results, please submit an abstract (1 to 2 pages) describing your talk before the deadline.
+We look for presentations on your work, including preliminary results and open questions.
+We plan with presentations of about 25min length joined by 15min of discussion, so that there is plenty of time for a substantial exchange.
+
+If you want to give a presentation, please submit an abstract describing your talk before the deadline.
+We accept up to two pages in the Lecture Notes on Informatics format ([CTAN](https://www.ctan.org/pkg/lni), [Overleaf](https://www.overleaf.com/latex/templates/template-for-lecture-notes-in-informatics-lni-manuscripts/hydnrjckjwrp)), including bibliography.
 We recommend English submissions and English presentations, as far as possible.
 Submissions have to be sent to the following email address:
 
+
 robust2025<span style="display: none">submission</span>@<span style="display: none">mailing</span>lists.kit.edu
+
+
 
 #### Important dates
 
@@ -85,14 +92,14 @@ robust2025<span style="display: none">submission</span>@<span style="display: no
 
 * Franz J. Hauck, Ulm University (Chair)
 * Hannes Hartenstein, KIT, Karlsruhe (Local Organiser)
+* Tobias Distler, FAU, Erlangen
 * Rüdiger Kapitza, FAU, Erlangen
 * Christian Berger, UP, Passau
 
 
 ### Accommodation
 
-For your accommodation during the workshop, we recommend considering hotels conveniently located near station "Durlacher Tor / KIT Campus Süd" (workshop venue)
-(workshop venue), "Marktplatz" (city center), or "Rüppurrer Tor" (in between).
+For your accommodation during the workshop, we recommend considering hotels conveniently located near station "Durlacher Tor / KIT Campus Süd" (workshop venue), "Marktplatz" (city center), or "Rüppurrer Tor" (in between).
 Here are some options to choose from:
 
 * Durlacher Tor
@@ -114,9 +121,8 @@ If you intend to participate in the workshop, please briefly [register here](htt
 
 ### Venue
 
-Seminar Room SR2 \
-KIT building 50.28 \
-KIT InformatiKOM 1 \
+Karlsruhe Institute of Technology (KIT) \
+[InformatiKOM 2 (Bldg. 50.28)](https://www.kit.edu/campusplan/map.php?id=50.28), Room SR2 \
 Adenauerring 12 \
 76131 Karlsruhe
 
