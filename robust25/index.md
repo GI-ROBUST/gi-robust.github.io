@@ -1,0 +1,100 @@
+---
+layout: 2024
+---
+
+### Call for Papers
+
+This workshop is a joint Fachgespräch of the GI special interest groups on Communication and Distributed Systems (KuVS) and Operating Systems (FGBS).
+Topics of interest are Byzantine fault tolerance and state-machine replication.
+The focus is on necessary concepts and infrastructure to enable (Byzantine) fault tolerance, but can also include the operation of such systems.
+Selected areas in the field are given by the following, not necessarily complete, list:
+
+
+* Consensus and replication protocols
+* Frameworks
+* Checkpointing concepts
+* Deterministic execution
+* Group and deployment management
+* Proactive recovery
+* Hybrid fault models
+
+<!-- * System support for blockchain
+* System support for resource-limited devices and blockchain
+* Resilient agreement protocols
+* Trusted execution for improved resilience of decentralized infrastructures
+* Blockchain consistency
+* Cryptocurrency attacks and incentives
+* Smart contract performance and security
+* Blockchain soft and hard forks
+* Anonymity and confidentiality in distributed ledgers
+* Governance of distributed ledgers
+* Scalability of distributed ledgers
+* Use cases
+* Novel application scenarios -->
+
+After each presentation there will be time for discussions.
+The event is planned from noon to noon so that there is time to arrive and depart on the same days.
+In the evening there will be a social event in form of a joint dinner.
+
+#### Contributions
+
+If you want to give a presentation on new results, please submit an abstract (1 to 2 pages) describing your talk before the deadline.
+We recommend English submissions and English presentations, as far as possible.
+Submissions have to be sent to the following email address:
+
+[robust2024@lists.informatik.uni-erlangen.de](mailto:robust2024@lists.informatik.uni-erlangen.de)
+
+#### Important dates
+
+* Submission Deadline: February 4, 2025
+* Notification: February 12, 2025
+* Workshop: March 17 (Noon) to 18 (Noon), 2025
+
+### Program Committee
+
+
+* Franz J. Hauck, Ulm University (Chair)
+* Hannes Hartenstein, KIT, Karlsruhe (Local Organiser)
+* Rüdiger Kapitza, FAU, Erlangen
+* Christian Berger, UP, Passau
+
+
+### Accommodation
+
+For your accommodation during the workshop, we recommend considering hotels conveniently located near station "Durlacher Tor / KIT Campus Süd" (workshop venue)
+(workshop venue), "Marktplatz" (city center), or "Rüppurrer Tor" (in between).
+Here are some options to choose from:
+
+* Durlacher Tor
+    + [Hotel Markgräfler Hof](https://hotel-markgraefler-hof.de/)
+    + [Hoepfner Burghof](https://hoepfner-burghof.com/)
+* Marktplatz
+    + [Hotel am Markt](https://www.hotelammarkt.de/)
+    + [Hotel Kaiserhof](https://hotelkaiserhof-ka.de/)
+* Rüppurrer Tor
+    + [ACHAT Hotel Karlsruhe](https://achat-hotels.com/hotels/karlsruhe-city)
+    + [Hotel Blankenburg](https://hotelblankenburg-karlsruhe.de/)
+
+
+
+### Registration
+
+If you intend to participate in the workshop, please briefly [register here](https://www.betriebssysteme.org/aktivitaeten/treffen/robust2025/) and tell us if you also like to join the social event (evening program) on Monday evening.
+
+
+### Venue
+
+Seminar Room SR2 \
+KIT building 50.28 \
+KIT InformatiKOM 1 \
+Adenauerring 12 \
+76131 Karlsruhe
+
+
+
+### Program
+The event is planned from noon to noon so that there is time to arrive and depart on the same days.
+
+##### Monday (2025-03-17)
+
+##### Tuesday (2025-03-18)
