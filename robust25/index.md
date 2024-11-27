@@ -6,11 +6,11 @@ description: Resilient Operations - Byzantine Fault Tolerance and State-Machine 
 conference_location: Karlsruhe, Germany
 conference_date: March 17 and 18, 2025
 top_navs:
-  - title: "Call For Paper"
+  - title: "Call For Papers"
     anchor: "#call-for-papers"
     new_tab: false
-  - title: "Submission"
-    anchor: "#contributions"
+  - title: "Submissions"
+    anchor: "#submissions"
     new_tab: false
   - title: "Important dates"
     anchor: "#important-dates"
@@ -66,7 +66,7 @@ After each presentation there will be time for discussions.
 The event is planned from noon to noon so that there is time to arrive and depart on the same days.
 In the evening there will be a social event in form of a joint dinner.
 
-#### Contributions
+#### Submissions
 
 If you want to give a presentation on new results, please submit an abstract (1 to 2 pages) describing your talk before the deadline.
 We recommend English submissions and English presentations, as far as possible.
