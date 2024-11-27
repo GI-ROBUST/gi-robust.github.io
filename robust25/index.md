@@ -6,8 +6,8 @@ description: Resilient Operations - Byzantine Fault Tolerance and State-Machine 
 conference_location: KIT Karlsruhe, Germany
 conference_date: March 17 and 18, 2025
 top_navs:
-  - title: "Call For Papers"
-    anchor: "#call-for-papers"
+  - title: "Call For Contributions"
+    anchor: "#call-for-contributions"
     new_tab: false
   - title: "Submissions"
     anchor: "#submissions"
@@ -32,7 +32,7 @@ top_navs:
     new_tab: false
 ---
 
-### Call for Papers
+### Call for Contributions
 
 This workshop is a joint Fachgespräch of the GI special interest groups on Communication and Distributed Systems (KuVS) and Operating Systems (FGBS).
 Topics of interest are Byzantine fault tolerance and state-machine replication.
@@ -62,9 +62,6 @@ Selected areas in the field are given by the following, not necessarily complete
 * Use cases
 * Novel application scenarios -->
 
-After each presentation there will be time for discussions.
-The event is planned from noon to noon so that there is time to arrive and depart on the same days.
-In the evening there will be a social event in form of a joint dinner.
 
 #### Submissions
 
@@ -131,6 +128,7 @@ Adenauerring 12 \
 
 ### Program
 The event is planned from noon to noon so that there is time to arrive and depart on the same days.
+In the evening, there will be a social event in form of a joint dinner.
 
 ##### Monday (2025-03-17)
 
