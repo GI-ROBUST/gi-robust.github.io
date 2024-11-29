@@ -78,8 +78,8 @@ robust2025<span style="display: none">submission</span>@<span style="display: no
 
 ### Important dates
 
-* Submission Deadline: February 4, 2025
-* Notification: February 12, 2025
+* Submission Deadline: February 2, 2025, 23:59 UTC
+* Notification: February 17, 2025
 * Workshop: March 17 (Noon) to 18 (Noon), 2025
 
 
