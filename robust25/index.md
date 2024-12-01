@@ -10,7 +10,7 @@ top_navs:
   - title: "Call for Contributions"
     anchor: "#call-for-contributions"
     new_tab: false
-  - title: "Important dates"
+  - title: "Important Dates"
     anchor: "#important-dates"
     new_tab: false
   - title: "Program Committee"
@@ -76,7 +76,7 @@ robust2025<span style="display: none">submission</span>@<span style="display: no
 
 
 
-### Important dates
+### Important Dates
 
 * Submission Deadline: February 2, 2025, 23:59 UTC
 * Notification: February 17, 2025
