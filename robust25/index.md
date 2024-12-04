@@ -30,7 +30,7 @@ top_navs:
     new_tab: false
 ---
 
-This workshop is a joint Fachgespräch of the GI special interest groups on Communication and Distributed Systems (KuVS) and Operating Systems (FGBS).
+This workshop is a joint technical discussion (“GI Fachgespräch”) of the [GI](https://gi.de) special interest groups on Communication and Distributed Systems ([KuVS](https://kuvs.de/)) and Operating Systems ([FGBS](https://www.betriebssysteme.org/)).
 Topics of interest are Byzantine fault tolerance and state-machine replication.
 The focus is on necessary concepts and infrastructure to enable (Byzantine) fault tolerance, but can also include the operation of such systems.
 Selected areas in the field are given by the following, not necessarily complete, list:
@@ -124,9 +124,16 @@ Here are some options to choose from:
 
 
 ## Program
-The event is planned from noon to noon so that there is time to arrive and depart on the same days.
+The event is planned from lunch to lunch so that there is time to arrive and depart on the same days.
 In the evening, there will be a social event in form of a joint dinner.
 
 ### Monday (2025-03-17)
 
+#### 11:00 – 12:00, Arrival
+
+#### 12:00 – 13:00, Lunch at Workshop Venue
+
 ### Tuesday (2025-03-18)
+
+#### 13:00 – 14:00, Lunch at Workshop Venue
+#### 14:00, Departure
