@@ -31,20 +31,19 @@ top_navs:
 ---
 
 This workshop is a joint technical discussion (“GI Fachgespräch”) of the [GI](https://gi.de) special interest groups on Communication and Distributed Systems ([KuVS](https://kuvs.de/)) and Operating Systems ([FGBS](https://www.betriebssysteme.org/)).
-Topics of interest are Byzantine fault tolerance and state-machine replication.
+We look into protocols and frameworks that are robust against Byzantine faults.
 The focus is on necessary concepts and infrastructure to enable (Byzantine) fault tolerance, but can also include the operation of such systems.
 Selected areas in the field are given by the following, not necessarily complete, list:
 
-
-* Consensus and replication protocols
-* Frameworks
-* Checkpointing concepts
-* Deterministic execution
-* Group and deployment management
-* Proactive recovery
+* Agreement protocols (e.g., broadcast, consensus)
+* State machine replication and other replication protocols
+* Checkpointing, recovery, and reconfiguration protocols
+* Frameworks for aforementioned protocols
 * Hybrid fault models
 
-<!-- * System support for blockchain
+
+<!--
+* System support for blockchain
 * System support for resource-limited devices and blockchain
 * Resilient agreement protocols
 * Trusted execution for improved resilience of decentralized infrastructures
