@@ -79,7 +79,7 @@ robust2025<span style="display: none">submission</span>@<span style="display: no
 
 * Submission Deadline: February 2, 2025, 23:59 UTC
 * Notification: February 17, 2025
-* Workshop: March 17 (Noon) to 18 (Noon), 2025
+* Workshop: March 17, 11:00 to March 18, 14:00, 2025
 
 
 ### Program Committee
@@ -132,7 +132,11 @@ In the evening, there will be a social event in form of a joint dinner.
 
 #### 12:00 – 13:00, Lunch at Workshop Venue
 
+#### Workshop
+
 ### Tuesday (2025-03-18)
+
+#### Workshop
 
 #### 13:00 – 14:00, Lunch at Workshop Venue
 #### 14:00, Departure
