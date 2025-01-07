@@ -28,6 +28,8 @@ top_navs:
   - title: "Program"
     anchor: "#program"
     new_tab: false
+  - title: "ROBUST 2024"
+    anchor: "https://robust2024.github.io/robust24/"
 ---
 
 This workshop is a joint technical discussion (“GI Fachgespräch”) of the [GI](https://gi.de) special interest groups on Communication and Distributed Systems ([KuVS](https://kuvs.de/)) and Operating Systems ([FGBS](https://www.betriebssysteme.org/)).
