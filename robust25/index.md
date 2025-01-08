@@ -81,6 +81,7 @@ robust2025<span style="display: none">submission</span>@<span style="display: no
 
 * Submission Deadline: February 2, 2025, 23:59 UTC
 * Notification: February 17, 2025
+* Registration Deadline: March 3, 2025, 23:59 UTC
 * Workshop: March 17, 11:00 to March 18, 14:00, 2025
 
 
@@ -96,7 +97,7 @@ robust2025<span style="display: none">submission</span>@<span style="display: no
 
 ## Registration
 
-If you intend to participate in the workshop, please briefly [register here](https://www.betriebssysteme.org/aktivitaeten/treffen/robust2025/) and tell us if you also like to join the social event (evening program) on Monday evening.
+If you intend to participate in the workshop, please briefly [register here](https://www.betriebssysteme.org/aktivitaeten/treffen/robust2025/) and tell us if you also like to join the social event (evening program) on Monday evening. Please register no later than March 3, 2025.
 
 
 ### Venue
