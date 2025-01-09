@@ -1,6 +1,6 @@
 ---
 layout: mainpage
-og-image: 'assets/karlsruher-schloss-pexels-paul-goodman-og.jpg'
+og-image: 'robust25/assets/karlsruher-schloss-pexels-paul-goodman-og.jpg'
 background-image: 'url(assets/karlsruher-schloss-pexels-paul-goodman-1x.jpg) 1x, url(assets/karlsruher-schloss-pexels-paul-goodman-2x.jpg) 2x'
 footer: "<a href='https://www.pexels.com/de-de/foto/luftaufnahme-des-gebaudes-wahrend-des-tages-172488/'>Aerial image of Karlsruhe by Paul Goodman</a>"
 title: ROBUST 2025 Workshop
