@@ -93,7 +93,7 @@ robust2025<span style="display: none">submission</span>@<span style="display: no
 * Tobias Distler, FAU, Erlangen
 * Rüdiger Kapitza, FAU, Erlangen
 * Hans P. Reiser, Reykjavík University
-* Christian Berger, UP, Passau
+* Christian Berger, FAU, Erlangen
 
 
 ## Registration
