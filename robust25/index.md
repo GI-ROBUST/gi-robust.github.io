@@ -33,6 +33,8 @@ top_navs:
     anchor: "/robust24/"
 ---
 
+**Attention: Registrations before 2025-01-17 presumably got lost, and must re-register.**
+
 This workshop is a joint technical discussion (“GI Fachgespräch”) of the [GI](https://gi.de) special interest groups on Communication and Distributed Systems ([KuVS](https://kuvs.de/)) and Operating Systems ([FGBS](https://www.betriebssysteme.org/)).
 We look into protocols and frameworks that are robust against Byzantine faults.
 The focus is on necessary concepts and infrastructure to enable (Byzantine) fault tolerance, but can also include the operation of such systems.
@@ -98,9 +100,9 @@ robust2025<span style="display: none">submission</span>@<span style="display: no
 
 ## Registration
 
-**Attention: Registrations before 2025-01-17 presumably got lost, and must re-register. We will announce a new registration link soon.**
+**Attention: Registrations before 2025-01-17 presumably got lost, and must re-register.**
 
-If you intend to participate in the workshop, please briefly register and tell us if you also like to join the social event (evening program) on Monday evening. Please register no later than March 2, 2025.
+If you intend to participate in the workshop, please briefly [register here](https://www.dsn.kastel.kit.edu/robust2025.php), confirm your registration by link in mail, and tell us if you also like to join the social event (evening program) on Monday evening. Please register no later than March 2, 2025.
 
 
 
