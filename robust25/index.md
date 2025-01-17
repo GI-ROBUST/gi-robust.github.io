@@ -102,8 +102,9 @@ robust2025<span style="display: none">submission</span>@<span style="display: no
 
 **Attention: Registrations before 2025-01-17 presumably got lost, and must re-register.**
 
-If you intend to participate in the workshop, please briefly [register here](https://www.dsn.kastel.kit.edu/robust2025.php), confirm your registration by link in mail, and tell us if you also like to join the social event (evening program) on Monday evening. Please register no later than March 2, 2025.
+If you intend to participate in the workshop, please briefly [register here](https://www.dsn.kastel.kit.edu/robust2025.php), tell us if you also like to join the social event (evening program) on Monday evening, and confirm your registration by using the link included in the confirmation e-mail.
 
+Please register no later than March 2, 2025.
 
 
 ### Venue
