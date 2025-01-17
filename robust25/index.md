@@ -82,7 +82,7 @@ robust2025<span style="display: none">submission</span>@<span style="display: no
 
 * Submission Deadline: February 2, 2025, 23:59 UTC
 * Notification: February 17, 2025
-* Registration Deadline: March 3, 2025, 23:59 UTC
+* Registration Deadline: March 2, 2025, 23:59 UTC
 * Workshop: March 17, 11:00 to March 18, 14:00, 2025
 
 
@@ -135,6 +135,9 @@ In the evening, there will be a social event in form of a joint dinner.
 #### 11:00 – 12:00, Arrival
 
 #### 12:00 – 13:00, Lunch at Workshop Venue
+
+#### Social Event
+* Joint dinner at [Schwarzer Kater Karlsruhe](https://kater-ka.de/)
 
 #### Workshop
 
