@@ -98,7 +98,10 @@ robust2025<span style="display: none">submission</span>@<span style="display: no
 
 ## Registration
 
-If you intend to participate in the workshop, please briefly [register here](https://www.betriebssysteme.org/aktivitaeten/treffen/robust2025/) and tell us if you also like to join the social event (evening program) on Monday evening. Please register no later than March 3, 2025.
+**Attention: Registrations before 2025-01-17 presumably got lost, and must re-register. We will announce a new registration link soon.**
+
+If you intend to participate in the workshop, please briefly register and tell us if you also like to join the social event (evening program) on Monday evening. Please register no later than March 2, 2025.
+
 
 
 ### Venue
