@@ -131,7 +131,8 @@ Here are some options to choose from:
 
 
 
-## Tentative Program
+## Program
+The following program is tentative.
 The event is planned from lunch to lunch so that there is time to arrive and depart on the same days.
 In the evening, there will be a social event in form of a joint dinner.
 
