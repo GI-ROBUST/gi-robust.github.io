@@ -127,29 +127,85 @@ Here are some options to choose from:
     + [Hotel am Markt](https://www.hotelammarkt.de/)
     + [Hotel Kaiserhof](https://hotelkaiserhof-ka.de/)
 * Rüppurrer Tor
-    + [ACHAT Hotel Karlsruhe](https://achat-hotels.com/hotels/karlsruhe-city)
     + [Hotel Blankenburg](https://hotelblankenburg-karlsruhe.de/)
 
 
 
-## Program
+## Tentative Program
 The event is planned from lunch to lunch so that there is time to arrive and depart on the same days.
 In the evening, there will be a social event in form of a joint dinner.
 
 ### Monday (2025-03-17)
+#### 12:00 Arrival
 
-#### 11:00 – 12:00, Arrival
+#### 12:15 – 13:15 Lunch at Workshop Venue
 
-#### 12:00 – 13:00, Lunch at Workshop Venue
+#### 13:15 – 13:30 Welcome (Chair: Hannes Hartenstein)
 
-#### Social Event
-* Joint dinner at [Schwarzer Kater Karlsruhe](https://kater-ka.de/)
+#### 13:30 – 15:30 Session 1 (Chair: Tobias Distler)
+- **Optimized BFT Replication from Authenticated Logging**
+  
+  Hanish Gogada *(University of Stavanger)*, Christian Berger *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Leander Jehl *(University of Stavanger)*, Hans P. Reiser *(Reykjavik University)*, Hein Meling *(University of Stavanger)*
+- **Optimistic Execution in State-Machine Replication Systems**
+  
+  Alexander Heß *(Ulm University)*, Franz J. Hauck *(Ulm University)*
+- **Partition Tolerance and Execution Semantics for State-Machine Replication**
+  
+  Franz J. Hauck *(Ulm University)*, Jannis Dommer *(Ulm University)*, Alexander Heß *(Ulm University)*
+- **Tweaking the Fault Model: Performance Gains Beyond Byzantine Fault Tolerance**
+  
+  Marc Leinweber *(Karlsruhe Institute of Technology)*
 
-#### Workshop
+#### 15:30 – 16:00 Coffee Break
+
+#### 16:00 – 18:00 Session 2 (Chair: Rüdiger Kapitza)
+- **An Asymmetric DAG-based Consensus Algorithm**
+  
+  Ignacio Amores-Sesar *(Aarhus University)*, Christian Cachin *(University of Bern)*, Juan Villacis *(University of Bern)*, Luca Zanolini *(Ethereum Foundation)*
+- **Byzantine Fault Tolerant Protocols with Near-Constant Work per Node without Signatures**
+  
+  Philipp Schneider *(University of Bern)*
+- **Blockchain Made Lightweight: A Median Rule for State Machine Replication**
+  
+  Christian Cachin *(University of Bern)*, Jinfeng Dou *(Paderborn University)*, Christian Scheideler *(Paderborn University)*, Philipp Schneider *(University of Bern)*
+- **Designing a Distributed System for Mobility-as-a-Service**
+  
+  Markus Raiber *(Karlsruhe Institute of Technology)*
+
+
+#### 19:15, Social Event
+- [Joint dinner at Schwarzer Kater Karlsruhe](https://kater-ka.de)
+
 
 ### Tuesday (2025-03-18)
 
-#### Workshop
+#### 08:30 – 10:00 Session 3 (Chair: Christian Berger)
+- **Toward Great Machine Replication: Revising Leader-Based Consensus One Building Block at a Time**
+  
+  Richard von Seck *(Technical University of Munich)*, Georg Carle *(Technical University of Munich)*
+- **WIP: Emulation Framework for Byzantine Fault-Tolerant Protocols**
+  
+  Bastian Kupka *(University of Stuttgart)*, Tim Strutzenberger *(University of Stuttgart)*, Simon Egger *(University of Stuttgart)*, Christian Becker *(University of Stuttgart)*
+- **Modeling and Optimizing BFT in the Presence of Network Failures and Anomolies**
+  
+  Martin Nischwitz *(Physikalisch-Technische Bundesanstalt)*, Marko Esche *(Physikalisch-Technische Bundesanstalt)*, Florian Tschorsch *(Technische Universität Dresden)*
 
-#### 13:00 – 14:00, Lunch at Workshop Venue
-#### 14:00, Departure
+#### 10:00 – 10:30 Coffee Break
+
+
+#### 10:30 – 12:00 Session 4 (Chair: Franz J. Hauck)
+- **Towards a Blockchain-based Data Recorder for Small Drones**
+  
+  Harald Böhm *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Tobias Distler *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Rüdiger Kapitza *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
+- **Enhancing Censorship Resistance in Ethereum’s World Computer**
+  
+  Patrick Spiesberger *(Karlsruhe Institute of Technology)*
+- **Eventually Consistent Access Control: Thinking in Two Orders**
+  
+  Florian Jacob *(Karlsruhe Institute of Technology)*
+
+#### 12:00 – 13:00 Lunch at Workshop Venue
+
+#### 12:30 – 13:00 Wrap-Up / Discussion with Lunch (Chairs: Franz J. Hauck, Hannes Hartenstein)
+ 
+#### 13:15 Departure
