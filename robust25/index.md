@@ -207,6 +207,6 @@ In the evening, there will be a social event in form of a joint dinner.
 
 #### 12:00 – 13:00 Lunch at Workshop Venue
 
-#### 12:30 – 13:00 Wrap-Up / Discussion with Lunch (Chairs: Franz J. Hauck, Hannes Hartenstein)
+#### 12:30 – 13:15 Wrap-Up / Discussion with Lunch (Chairs: Franz J. Hauck, Hannes Hartenstein)
  
 #### 13:15 Departure
