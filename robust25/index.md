@@ -187,7 +187,7 @@ In the evening, there will be a social event in form of a joint dinner.
 - <a href="assets/abstracts/9-Emulation-Framework-BFT-Protocols.pdf">**WIP: Emulation Framework for Byzantine Fault-Tolerant Protocols**</a>
   
   Bastian Kupka *(University of Stuttgart)*, Tim Strutzenberger *(University of Stuttgart)*, Simon Egger *(University of Stuttgart)*, Christian Becker *(University of Stuttgart)*
-- <a href="assets/abstracts/11-Modeling-Optimizing-BFT-Network-Failures-Anomalies.pdf">**Modeling and Optimizing BFT in the Presence of Network Failures and Anomolies**</a>
+- <a href="assets/abstracts/11-Modeling-Optimizing-BFT-Network-Failures-Anomalies.pdf">**Modeling and Optimizing BFT in the Presence of Network Failures and Anomalies**</a>
   
   Martin Nischwitz *(Physikalisch-Technische Bundesanstalt)*, Marko Esche *(Physikalisch-Technische Bundesanstalt)*, Florian Tschorsch *(Technische Universität Dresden)*
 
