@@ -165,10 +165,10 @@ In the evening, there will be a social event in form of a joint dinner.
   Ignacio Amores-Sesar *(Aarhus University)*, Christian Cachin *(University of Bern)*, Juan Villacis *(University of Bern)*, Luca Zanolini *(Ethereum Foundation)*
 - <a href="assets/abstracts/12-BFT-Protocols-Near-Constant-Work.pdf">**Byzantine Fault Tolerant Protocols with Near-Constant Work per Node without Signatures**</a>
   
-  Philipp Schneider *(University of Bern)*
+  Philipp Schneider *(CISPA)*
 - <a href="assets/abstracts/10-Blockchain-Lightweight-Median-Rule-SMR.pdf">**Blockchain Made Lightweight: A Median Rule for State Machine Replication**</a>
   
-  Christian Cachin *(University of Bern)*, Jinfeng Dou *(Paderborn University)*, Christian Scheideler *(Paderborn University)*, Philipp Schneider *(University of Bern)*
+  Christian Cachin *(University of Bern)*, Jinfeng Dou *(Paderborn University)*, Christian Scheideler *(Paderborn University)*, Philipp Schneider *(CISPA)*
 - <a href="assets/abstracts/14-Distributed_System_Mobility_as_a_Service.pdf">**Designing a Distributed System for Mobility-as-a-Service**</a>
   
   Markus Raiber *(Karlsruhe Institute of Technology)*
