@@ -163,9 +163,9 @@ In the evening, there will be a social event in form of a joint dinner.
 - <a href="assets/abstracts/5-Asymmetric-DAG-Consensus.pdf">**An Asymmetric DAG-based Consensus Algorithm**</a>
   
   Ignacio Amores-Sesar *(Aarhus University)*, Christian Cachin *(University of Bern)*, Juan Villacis *(University of Bern)*, Luca Zanolini *(Ethereum Foundation)*
-- <a href="assets/abstracts/12-BFT-Protocols-Near-Constant-Work.pdf">**Byzantine Fault Tolerant Protocols with Near-Constant Work per Node without Signatures**</a>
+- <a href="https://arxiv.org/abs/2401.02811">**An Analysis of Avalanche Consensus**</a>
   
-  Philipp Schneider *(CISPA)*
+  Ignacio Amores-Sesar *(Aarhus University)*, Christian Cachin *(University of Bern)*, Philipp Schneider *(CISPA)*
 - <a href="assets/abstracts/10-Blockchain-Lightweight-Median-Rule-SMR.pdf">**Blockchain Made Lightweight: A Median Rule for State Machine Replication**</a>
   
   Christian Cachin *(University of Bern)*, Jinfeng Dou *(Paderborn University)*, Christian Scheideler *(Paderborn University)*, Philipp Schneider *(CISPA)*
