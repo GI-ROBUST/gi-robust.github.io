@@ -33,8 +33,6 @@ top_navs:
     anchor: "/robust24/"
 ---
 
-**Attention: Registrations before 2025-01-17 got lost with high probability, and [must re-register](https://www.dsn.kastel.kit.edu/english/robust2025.php)**
-
 This workshop is a joint technical discussion (“GI Fachgespräch”) of the [GI](https://gi.de) special interest groups on Communication and Distributed Systems ([KuVS](https://kuvs.de/)) and Operating Systems ([FGBS](https://www.betriebssysteme.org/)).
 We look into protocols and frameworks that are robust against Byzantine faults.
 The focus is on necessary concepts and infrastructure to enable (Byzantine) fault tolerance, but can also include the operation of such systems.
@@ -99,8 +97,6 @@ robust2025<span style="display: none">submission</span>@<span style="display: no
 
 
 ## Registration
-
-**Attention: Registrations before 2025-01-17 got lost with high probability, and must re-register.**
 
 If you intend to participate in the workshop, please briefly [register here](https://www.dsn.kastel.kit.edu/english/robust2025.php), tell us if you also like to join the social event (evening program) on Monday evening, and confirm your registration by using the link included in the confirmation e-mail.
 
@@ -174,7 +170,7 @@ In the evening, there will be a social event in form of a joint dinner.
   Markus Raiber *(Karlsruhe Institute of Technology)*
 
 
-#### 19:15, Social Event
+#### 19:15 Social Event
 - [Joint dinner at Schwarzer Kater Karlsruhe](https://kater-ka.de)
 
 
