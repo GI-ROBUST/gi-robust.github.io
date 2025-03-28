@@ -197,7 +197,7 @@ In the evening, there will be a social event in form of a joint dinner.
 - <a href="assets/abstracts/6-Ethereum-Censorship-Resistance.pdf">**Enhancing Censorship Resistance in Ethereum’s World Computer**</a>
   
   Patrick Spiesberger *(Karlsruhe Institute of Technology)*
-- <a href="assets/abstracts/13-Eventually_Consistent_Access_Control__Thinking_in_Two_Orders.pdf">**Eventually Consistent Access Control: Thinking in Two Orders**</a>
+- <a href="assets/abstracts/13-Eventually_Consistent_Access_Control__Thinking_in_Two_Orderings.pdf">**Eventually Consistent Access Control: Thinking in Two Orderings**</a>
   
   Florian Jacob *(Karlsruhe Institute of Technology)*
 
