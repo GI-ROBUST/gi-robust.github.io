@@ -89,9 +89,9 @@ todo-robust2026<span style="display: none">submission</span>@<span style="displa
 ### Program Committee
 
 * Franz J. Hauck, Ulm University (Chair)
-* Hannes Hartenstein, KIT, Karlsruhe (Local Organiser)
-* Tobias Distler, FAU, Erlangen
-* Rüdiger Kapitza, FAU, Erlangen
+* Rüdiger Kapitza, FAU, Erlangen (Local Organizer)
+* Hannes Hartenstein, KIT, Karlsruhe
+* Tobias Distler, University of Bamberg
 * Hans P. Reiser, Reykjavík University
 * Christian Berger, FAU, Erlangen
 
