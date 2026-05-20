@@ -92,7 +92,7 @@ Submissions have to be sent to the following email address:
 * Rüdiger Kapitza, FAU, Erlangen 
 * Hannes Hartenstein, KIT, Karlsruhe
 * Tobias Distler, University of Bamberg
-* Hans P. Reiser, Reykjavík University
+* Hans P. Reiser, University of Passau
 * Christian Berger, FAU, Erlangen (Local Organizer)
 
 
