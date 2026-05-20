@@ -1,8 +1,8 @@
 ---
 layout: mainpage
-og-image: 'robust26/assets/erlangen_1200w.jpg'
-background-image: 'url(assets/erlangen_1920w.jpg) 1x, url(assets/erlangen_1920w.jpg) 2x'
-footer: "<a href='https://www.pexels.com/de-de/foto/luftaufnahme-des-gebaudes-wahrend-des-tages-172488/'>Aerial image of Karlsruhe by Paul Goodman</a>"
+og-image: 'robust26/assets/FAU_techfak_1200w.jpg'
+background-image: 'url(assets/FAU_techfak_1920w.jpg) 1x, url(assets/FAU_techfak_1920w.jpg) 2x'
+footer: "<a href='https://www.pexels.com/de-de/foto/luftaufnahme-des-gebaudes-wahrend-des-tages-172488/'>Aerial image © FAU | FATHER&SUN</a>"
 title: ROBUST 2026 Workshop
 description: Resilient Operations - Byzantine Fault Tolerance and State-Machine Replication
 conference_location: Erlangen, Germany
