@@ -105,7 +105,7 @@ Please register no later than 24 September.
 
 ### Venue
 
-Department of Computer Science 16 (System Software) \
+Chair of Computer Science 4 (Systems Software) \
 Martensstraße 1 \
 91058 Erlangen 
 
