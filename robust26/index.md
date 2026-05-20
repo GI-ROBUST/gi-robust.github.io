@@ -105,15 +105,36 @@ Please register no later than 24 September.
 
 ### Venue
 
-TODO
+Department of Computer Science 16 (System Software) \
+Martensstraße 1 \
+91058 Erlangen 
+
+Wednesday: Room number 0.031-113
+Thursday: Room number 0.031-113
+
 
 
 ### Accommodation
 
-TODO
+For your accommodation during the workshop, we recommend considering hotels conveniently located near the Technische Fakultät (workshop venue) or Erlangen Altstadt / Zentrum. Here are some options to choose from:
+
+**Hotels near Technische Fakultät (workshop venue):**
+
+* [The niu Cure](https://the.niu.de/hotels/deutschland/erlangen/the-niu-cure)
+* [Creativhotel Luise](https://www.hotel-luise.de/)
 
 
-## Program (TODO)
+**Erlangen Altstadt / Zentrum (city center):**
+
+* [NH Hotel Erlangen](https://www.nh-hotels.com/en/hotel/nh-erlangen)
+* [Hotelchen am Theater](https://hotelchen-am-theater.de)
+* [Hotel Rokohaus Erlangen](https://hotel-rokokohaus-erlangen.hotel-mix.de/)
+* [Altstadthotel Grauer Wolf](https://grauer-wolf.de/)
+* [Novotel Erlangen](https://all.accor.com/hotel/5376/index.de.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps)
+
+
+
+## Program (TBA)
 The following program is tentative.
 The event is planned from lunch to lunch so that there is time to arrive and depart on the same days.
 In the evening, there will be a social event in form of a joint dinner.
