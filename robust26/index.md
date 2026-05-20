@@ -1,7 +1,7 @@
 ---
 layout: mainpage
-og-image: 'robust25/assets/karlsruher-schloss-pexels-paul-goodman-og.jpg'
-background-image: 'url(assets/karlsruher-schloss-pexels-paul-goodman-1x.jpg) 1x, url(assets/karlsruher-schloss-pexels-paul-goodman-2x.jpg) 2x'
+og-image: 'robust26/assets/erlangen_1200w.jpg'
+background-image: 'url(assets/erlangen_1920w.jpg) 1x, url(assets/erlangen_1920w.jpg) 2x'
 footer: "<a href='https://www.pexels.com/de-de/foto/luftaufnahme-des-gebaudes-wahrend-des-tages-172488/'>Aerial image of Karlsruhe by Paul Goodman</a>"
 title: ROBUST 2026 Workshop
 description: Resilient Operations - Byzantine Fault Tolerance and State-Machine Replication
@@ -74,33 +74,33 @@ Accepted submissions will be made available in public on the workshop website, b
 Submissions have to be sent to the following email address:
 
 
-todo-robust2026<span style="display: none">submission</span>@<span style="display: none">mailing</span>lists.kit.edu
+<span style="display: none">submission</span>robust2026@lists.informatik.uni-erlangen.de<span style="display: none">mailing</span>
 
 
 
 ### Important Dates
 
-* Submission Deadline: TODO
-* Notification: TODO
-* Registration Deadline: TODO
-* Workshop: TODO
+* Submission Deadline: 31 August
+* Notification: 14 September
+* Registration Deadline: 24 September
+* Workshop: 7-8 October
 
 
 ### Program Committee
 
 * Franz J. Hauck, Ulm University (Chair)
-* Rüdiger Kapitza, FAU, Erlangen (Local Organizer)
+* Rüdiger Kapitza, FAU, Erlangen 
 * Hannes Hartenstein, KIT, Karlsruhe
 * Tobias Distler, University of Bamberg
 * Hans P. Reiser, Reykjavík University
-* Christian Berger, FAU, Erlangen
+* Christian Berger, FAU, Erlangen (Local Organizer)
 
 
 ## Registration
 
-If you intend to participate in the workshop, please briefly [register here TODO](), tell us if you also like to join the social event (evening program) on Monday evening, and confirm your registration by using the link included in the confirmation e-mail.
+If you intend to participate in the workshop, please briefly [register here TODO](), tell us if you also like to join the social event (evening program) on Wednesday evening, and confirm your registration by using the link included in the confirmation e-mail.
 
-Please register no later than TODO.
+Please register no later than 24 September.
 
 
 ### Venue
