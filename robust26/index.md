@@ -2,10 +2,10 @@
 layout: mainpage
 og-image: 'robust26/assets/FAU_techfak_1200w.jpg'
 background-image: 'url(assets/FAU_techfak_1920w.jpg) 1x, url(assets/FAU_techfak_1920w.jpg) 2x'
-footer: "<a href='https://www.picdrop.com/fau/qZ2Nz3C3rX?file=4caeb163750291792d84ab31ab247596'>Aerial image © FAU | FATHER&SUN</a>"
+footer: ""
 title: ROBUST 2026 Workshop
 description: Resilient Operations - Byzantine Fault Tolerance and State-Machine Replication
-conference_location: Erlangen, Germany
+conference_location: FAUTech, Erlangen, Germany
 conference_date: October 7 and 8, 2026
 top_navs:
   - title: "Call for Contributions"
@@ -32,7 +32,8 @@ top_navs:
   - title: "ROBUST 2025"
     anchor: "/robust25/"
 ---
-
+<a href='https://www.picdrop.com/fau/qZ2Nz3C3rX?file=4caeb163750291792d84ab31ab247596'>Aerial image © FAU | FATHER&SUN</a>
+<br>
 This workshop is a joint technical discussion (“GI Fachgespräch”) of the [GI](https://gi.de) special interest groups on Communication and Distributed Systems ([KuVS](https://kuvs.de/)) and Operating Systems ([FGBS](https://www.betriebssysteme.org/)).
 We look into protocols and frameworks that are robust against Byzantine faults.
 The focus is on necessary concepts and infrastructure to enable (Byzantine) fault tolerance, but can also include the operation of such systems.
