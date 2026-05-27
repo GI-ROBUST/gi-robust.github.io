@@ -32,6 +32,14 @@ top_navs:
   - title: "ROBUST 2025"
     anchor: "/robust25/"
 ---
+<style>
+	.jumbotron {
+		align-items: flex-start !important;
+	}
+	.header {
+		margin: 6rem auto auto auto !important;
+	}
+</style>
 <a href='https://www.picdrop.com/fau/qZ2Nz3C3rX?file=4caeb163750291792d84ab31ab247596'>Aerial image © FAU | FATHER&SUN</a>
 <br>
 This workshop is a joint technical discussion (“GI Fachgespräch”) of the [GI](https://gi.de) special interest groups on Communication and Distributed Systems ([KuVS](https://kuvs.de/)) and Operating Systems ([FGBS](https://www.betriebssysteme.org/)).
