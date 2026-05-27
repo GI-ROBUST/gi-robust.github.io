@@ -1,7 +1,7 @@
 ---
 layout: mainpage
-og-image: 'robust26/assets/FAU_techfak_1200w.jpg'
-background-image: 'url(assets/FAU_techfak_1920w.jpg) 1x, url(assets/FAU_techfak_1920w.jpg) 2x'
+og-image: 'robust26/assets/erlangen_1200w.jpg'
+background-image: 'url(assets/erlangen_1920w.jpg) 1x, url(assets/erlangen.jpg) 2x'
 footer: ""
 title: ROBUST 2026 Workshop
 description: Resilient Operations - Byzantine Fault Tolerance and State-Machine Replication
@@ -95,6 +95,8 @@ Submissions have to be sent to the following email address:
 * Tobias Distler, University of Bamberg
 * Hans P. Reiser, University of Passau
 * Christian Berger, FAU, Erlangen (Local Organizer)
+* Hein Meling, University of Stavanger
+* Leander Jehl, University of Stavanger
 
 
 ## Registration
