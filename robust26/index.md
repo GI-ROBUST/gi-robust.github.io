@@ -7,7 +7,7 @@ title: ROBUST 2026 Workshop
 description: Resilient Operations - Byzantine Fault Tolerance and State-Machine Replication
 conference_location: FAUTech, Erlangen, Germany
 conference_date: October 7 and 8, 2026
-colocated_note: 'co-located with the <a href="https://fg-bs.gi.de/aktivitaeten/treffen/2026-erlangen">autumn meeting of the special interest group operating systems (FGBS)</a>'
+colocated_note: 'co-located with the <a href="https://fg-bs.gi.de/aktivitaeten/treffen/2026-erlangen">autumn meeting</a> of the special interest group operating systems (FGBS)'
 top_navs:
   - title: "Call for Contributions"
     anchor: "#call-for-contributions"
