@@ -7,6 +7,7 @@ title: ROBUST 2026 Workshop
 description: Resilient Operations - Byzantine Fault Tolerance and State-Machine Replication
 conference_location: FAUTech, Erlangen, Germany
 conference_date: October 7 and 8, 2026
+colocated_note: 'co-located with the <a href="https://fg-bs.gi.de/aktivitaeten/treffen/2026-erlangen">autumn meeting of the special interest group operating systems (FGBS)</a>'
 top_navs:
   - title: "Call for Contributions"
     anchor: "#call-for-contributions"
@@ -89,9 +90,9 @@ Submissions have to be sent to the following email address:
 
 ### Important Dates
 
-* Submission Deadline: 31 August
-* Notification: 14 September
-* Registration Deadline: 24 September
+* Submission Deadline: 23. August
+* Notification: 07. September
+* Registration Deadline: 24. September
 * Workshop: 7-8 October
 
 
