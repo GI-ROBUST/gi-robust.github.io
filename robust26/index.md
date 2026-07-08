@@ -41,8 +41,8 @@ top_navs:
 		margin: 6rem auto auto auto !important;
 	}
 </style>
-<a href='https://www.picdrop.com/fau/qZ2Nz3C3rX?file=4caeb163750291792d84ab31ab247596'>Aerial image © FAU | FATHER&SUN</a>
-<br>
+<sup><a href='https://www.picdrop.com/fau/qZ2Nz3C3rX?file=4caeb163750291792d84ab31ab247596'>Aerial image © FAU | FATHER&SUN</a></sup>
+<br><br>
 This workshop is a joint technical discussion (“GI Fachgespräch”) of the [GI](https://gi.de) special interest groups on Communication and Distributed Systems ([KuVS](https://kuvs.de/)) and Operating Systems ([FGBS](https://www.betriebssysteme.org/)).
 We look into protocols and frameworks that are robust against Byzantine faults.
 The focus is on necessary concepts and infrastructure to enable (Byzantine) fault tolerance, but can also include the operation of such systems.
@@ -90,10 +90,12 @@ Submissions have to be sent to the following email address:
 
 ### Important Dates
 
-* Submission Deadline: 23. August
-* Notification: 07. September
-* Registration Deadline: 24. September
-* Workshop: 7-8 October
+* Submission Deadline: August 23, 2026
+* Notification: September 7, 2026
+* Registration Deadline: September 24, 2026
+* Workshop: October 7 to 8, 2026
+	* the workshop is planned from noon to noon to allow for travel on the same day
+	* in the afternoon of October 8, the FGBS sig meeting will start
 
 
 ### Program Committee
@@ -112,7 +114,7 @@ Submissions have to be sent to the following email address:
 
 If you intend to participate in the workshop, please briefly [register here](https://fg-bs.gi.de/en/aktivitaeten/events/detail/robust-2026-sign-up), tell us if you also like to join the social event (evening program) on Wednesday evening, and confirm your registration by using the link included in the confirmation e-mail.
 
-Please register no later than 24 September.
+Please register no later than September 24, 2026.
 
 
 ### Venue
