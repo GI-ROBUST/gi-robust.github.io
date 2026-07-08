@@ -110,7 +110,7 @@ Submissions have to be sent to the following email address:
 
 ## Registration
 
-If you intend to participate in the workshop, please briefly [register here TODO](), tell us if you also like to join the social event (evening program) on Wednesday evening, and confirm your registration by using the link included in the confirmation e-mail.
+If you intend to participate in the workshop, please briefly [register here](https://fg-bs.gi.de/en/aktivitaeten/events/detail/robust-2026-sign-up), tell us if you also like to join the social event (evening program) on Wednesday evening, and confirm your registration by using the link included in the confirmation e-mail.
 
 Please register no later than 24 September.
 
