@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | {{ page.event | default: site.title }}</title>
+
+    <meta name="robots" content="noindex">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#003865">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="preload" href="{{ '/assets/fonts/open-sans-v44-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      .page-header {
+        background-color: #003865;
+        background-image: none;
+      }
+      .main-content h1, .main-content h2, .main-content h3,
+      .main-content h4, .main-content h5, .main-content h6 {
+        color: #003865;
+      }
+      .main-content dt {
+        font-weight: bold;
+      }
+      .main-content dd {
+        margin: 0 0 0.75rem 0;
+      }
+    </style>
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title }}</h1>
+      {% if page.event %}<h2 class="project-tagline">{{ page.event }}</h2>{% endif %}
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        {{ page.footer }}
+      </footer>
+    </main>
+  </body>
+</html>

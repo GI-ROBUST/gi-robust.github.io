@@ -2,7 +2,7 @@
 layout: mainpage
 og-image: 'robust26/assets/erlangen_1200w.jpg'
 background-image: 'url(assets/erlangen_1920w.jpg) 1x, url(assets/erlangen.jpg) 2x'
-footer: ""
+footer: "<a href='/robust26/impressum/'>Impressum</a> &middot; <a href='/robust26/privacy/'>Privacy Policy</a>"
 title: ROBUST 2026 Workshop
 description: Resilient Operations - Byzantine Fault Tolerance and State-Machine Replication
 conference_location: FAUTech, Erlangen, Germany
