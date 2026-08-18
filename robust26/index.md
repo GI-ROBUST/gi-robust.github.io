@@ -84,7 +84,7 @@ Accepted submissions will be made available in public on the workshop website, b
 Submissions have to be sent to the following email address:
 
 
-<span style="display: none">submission</span>robust2026@lists.informatik.uni-erlangen.de<span style="display: none">mailing</span>
+<span style="display: none">submission</span><a href="mailto:robust2026@lists.informatik.uni-erlangen.de">robust2026@lists.informatik.uni-erlangen.de</a><span style="display: none">mailing</span>
 
 
 
@@ -101,7 +101,7 @@ Submissions have to be sent to the following email address:
 ### Program Committee
 
 * Franz J. Hauck, Ulm University (Chair)
-* Rüdiger Kapitza, FAU, Erlangen 
+* Rüdiger Kapitza, FAU, Erlangen
 * Hannes Hartenstein, KIT, Karlsruhe
 * Tobias Distler, University of Bamberg
 * Hans P. Reiser, University of Passau
@@ -121,7 +121,7 @@ Please register no later than September 24, 2026.
 
 Chair of Computer Science 4 (Systems Software) \
 Martensstraße 1 \
-91058 Erlangen 
+91058 Erlangen
 
 Wednesday: Room number 0.031-113
 Thursday: Room number 0.031-113
