@@ -181,9 +181,9 @@ In the evening, there will be a social event in form of a joint dinner.
   Theresa Schlicht *(University of Bamberg)*, Tobias Distler *(University of Bamberg)*
 
 #### 16:30 – 17:10
-- <a href="assets/abstracts/Speculatively-Ordered-Reads-BFT-SMR.pdf">**Speculatively Ordered Reads for Byzantine Fault-Tolerant State-Machine Replication**</a>
+- <a href="assets/abstracts/Diversifying-Fault-Tolerant-Systems-LLMs.pdf">**Diversifying Fault-Tolerant Systems using LLMs**</a>
   
-  Alexander Heß *(Ulm University)*, Franz J. Hauck *(Ulm University)*
+  Arne Vogel *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Christian Berger *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Rüdiger Kapitza *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
 
 #### 17:10 – 17:50 Invited Talk
 - Leander Jehl *(University of Stavanger)*
@@ -196,9 +196,9 @@ In the evening, there will be a social event in form of a joint dinner.
 #### 08:30 – 09:00 Coffee and “Future of ROBUST” Discussion
 
 #### 09:00 – 09:40
-- <a href="assets/abstracts/Diversifying-Fault-Tolerant-Systems-LLMs.pdf">**Diversifying Fault-Tolerant Systems using LLMs**</a>
+- <a href="assets/abstracts/Speculatively-Ordered-Reads-BFT-SMR.pdf">**Speculatively Ordered Reads for Byzantine Fault-Tolerant State-Machine Replication**</a>
   
-  Arne Vogel *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Christian Berger *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Rüdiger Kapitza *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
+  Alexander Heß *(Ulm University)*, Franz J. Hauck *(Ulm University)*
 
 #### 09:40 – 10:20
 - <a href="assets/abstracts/Correlation-Aware-BFT.pdf">**Correlation-Aware Byzantine Fault Tolerance**</a>
