@@ -148,7 +148,68 @@ For your accommodation during the workshop, we recommend considering hotels conv
 
 
 
-## Program (TBA)
+## Program
 The following program is tentative.
 The event is planned from lunch to lunch so that there is time to arrive and depart on the same days.
 In the evening, there will be a social event in form of a joint dinner.
+
+### Wednesday (2026-10-07)
+#### 12:50 – 13:00 Greeting
+
+#### 13:00 – 14:00 Invited Talk
+- **Transaction fair ordering for DAG-based BFT consensus protocols**
+  
+  Jérémie Decouchant *(Delft University of Technology)*
+
+#### 14:00 – 14:20 Break
+
+#### 14:20 – 15:00
+- <a href="assets/abstracts/DAG-based-BAB-in-SMR.pdf">**Neither Optional nor Free: DAG-based Byzantine Atomic Broadcast in the Context of State Machine Replication**</a>
+  
+  Paul Bergmann *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Maya Kuhlmann *(Karlsruhe Institute of Technology)*
+
+#### 15:00 – 15:40
+- <a href="assets/abstracts/DAG-based-BFT-via-TEEs.pdf">**Breaking the Latency Barrier: 310ms Asynchronous DAG-based BFT Atomic Broadcasts via TEEs**</a>
+  
+  Maya Kuhlmann *(Karlsruhe Institute of Technology)*, Paul Bergmann *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
+
+#### 15:40 – 15:50 Break
+
+#### 15:50 – 16:30
+- <a href="assets/abstracts/Asynchronous-BFT-Micro-Replication.pdf">**Towards Asynchronous BFT Micro Replication**</a>
+  
+  Theresa Schlicht *(University of Bamberg)*, Tobias Distler *(University of Bamberg)*
+
+#### 16:30 – 17:10
+- <a href="assets/abstracts/Speculatively-Ordered-Reads-BFT-SMR.pdf">**Speculatively Ordered Reads for Byzantine Fault-Tolerant State-Machine Replication**</a>
+  
+  Alexander Heß *(Ulm University)*, Franz J. Hauck *(Ulm University)*
+
+#### 17:10 – 17:50 Invited Talk
+- Leander Jehl *(University of Stavanger)*
+
+#### 19:30 Social Event
+- Joint dinner at Kulisse
+
+
+### Thursday (2026-10-08)
+#### 08:30 – 09:00 Coffee and “Future of ROBUST” Discussion
+
+#### 09:00 – 09:40
+- <a href="assets/abstracts/Diversifying-Fault-Tolerant-Systems-LLMs.pdf">**Diversifying Fault-Tolerant Systems using LLMs**</a>
+  
+  Arne Vogel *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Christian Berger *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Rüdiger Kapitza *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
+
+#### 09:40 – 10:20
+- <a href="assets/abstracts/Correlation-Aware-BFT.pdf">**Correlation-Aware Byzantine Fault Tolerance**</a>
+  
+  Benjamin Haag *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Christian Berger *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
+
+#### 10:20 – 11:00
+- <a href="assets/abstracts/Fault-Tolerant-Decentralized-Learning.pdf">**Categorizing Fault-Tolerant Decentralized Learning along the Axes of Privacy, Robustness, and Efficiency**</a>
+  
+  Niklas Hemken *(Karlsruhe Institute of Technology)*
+
+#### 11:00 – 11:10 Farewell
+
+#### 12:00 – 18:00 [FGBS SIG Meeting](https://fg-bs.gi.de/aktivitaeten/treffen/2026-erlangen)
