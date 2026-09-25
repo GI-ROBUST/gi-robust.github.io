@@ -189,7 +189,7 @@ In the evening, there will be a social event in form of a joint dinner.
 - Leander Jehl *(University of Stavanger)*
 
 #### 19:30 Social Event
-- Joint dinner at Kulisse
+- Joint dinner at [Kulisse](https://kulisse-erlangen.de)
 
 
 ### Thursday (2026-10-08)
