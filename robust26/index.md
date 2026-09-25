@@ -157,7 +157,7 @@ In the evening, there will be a social event in form of a joint dinner.
 #### 12:50 – 13:00 Greeting
 
 #### 13:00 – 14:00 Invited Talk
-- **Transaction Fair Ordering for DAG-based BFT Consensus Protocols**
+- <a href="assets/abstracts/Transaction-Fair-Ordering-DAG-BFT.pdf">**Transaction Fair Ordering for DAG-based BFT Consensus Protocols**</a>
   
   Jérémie Decouchant *(Delft University of Technology)*
 
