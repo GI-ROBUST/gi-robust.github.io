@@ -176,14 +176,14 @@ In the evening, there will be a social event in form of a joint dinner.
 #### 15:40 – 15:50 Break
 
 #### 15:50 – 16:30
-- <a href="assets/abstracts/DAG-based-BAB-in-SMR.pdf">**Neither Optional nor Free: DAG-based Byzantine Atomic Broadcast in the Context of State Machine Replication**</a>
-  
-  Paul Bergmann *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Maya Kuhlmann *(Karlsruhe Institute of Technology)*
-
-#### 16:30 – 17:10
 - <a href="assets/abstracts/DAG-based-BFT-via-TEEs.pdf">**Breaking the Latency Barrier: 310ms Asynchronous DAG-based BFT Atomic Broadcasts via TEEs**</a>
   
   Maya Kuhlmann *(Karlsruhe Institute of Technology)*, Paul Bergmann *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
+
+#### 16:30 – 17:10
+- <a href="assets/abstracts/DAG-based-BAB-in-SMR.pdf">**Neither Optional nor Free: DAG-based Byzantine Atomic Broadcast in the Context of State Machine Replication**</a>
+  
+  Paul Bergmann *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Maya Kuhlmann *(Karlsruhe Institute of Technology)*
 
 #### 17:10 – 17:50 “Future of ROBUST” Discussion
 
