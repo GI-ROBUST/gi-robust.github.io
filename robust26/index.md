@@ -164,37 +164,34 @@ In the evening, there will be a social event in form of a joint dinner.
 #### 14:00 – 14:20 Break
 
 #### 14:20 – 15:00
-- <a href="assets/abstracts/DAG-based-BAB-in-SMR.pdf">**Neither Optional nor Free: DAG-based Byzantine Atomic Broadcast in the Context of State Machine Replication**</a>
-  
-  Paul Bergmann *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Maya Kuhlmann *(Karlsruhe Institute of Technology)*
-
-#### 15:00 – 15:40
-- <a href="assets/abstracts/DAG-based-BFT-via-TEEs.pdf">**Breaking the Latency Barrier: 310ms Asynchronous DAG-based BFT Atomic Broadcasts via TEEs**</a>
-  
-  Maya Kuhlmann *(Karlsruhe Institute of Technology)*, Paul Bergmann *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
-
-#### 15:40 – 15:50 Break
-
-#### 15:50 – 16:30
 - <a href="assets/abstracts/Asynchronous-BFT-Micro-Replication.pdf">**Towards Asynchronous BFT Micro Replication**</a>
   
   Theresa Schlicht *(University of Bamberg)*, Tobias Distler *(University of Bamberg)*
 
-#### 16:30 – 17:10
+#### 15:00 – 15:40
 - <a href="assets/abstracts/Diversifying-Fault-Tolerant-Systems-LLMs.pdf">**Diversifying Fault-Tolerant Systems using LLMs**</a>
   
   Arne Vogel *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Christian Berger *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Rüdiger Kapitza *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
 
-#### 17:10 – 17:50 Invited Talk
-- Leander Jehl *(University of Stavanger)*
+#### 15:40 – 15:50 Break
+
+#### 15:50 – 16:30
+- <a href="assets/abstracts/DAG-based-BAB-in-SMR.pdf">**Neither Optional nor Free: DAG-based Byzantine Atomic Broadcast in the Context of State Machine Replication**</a>
+  
+  Paul Bergmann *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Maya Kuhlmann *(Karlsruhe Institute of Technology)*
+
+#### 16:30 – 17:10
+- <a href="assets/abstracts/DAG-based-BFT-via-TEEs.pdf">**Breaking the Latency Barrier: 310ms Asynchronous DAG-based BFT Atomic Broadcasts via TEEs**</a>
+  
+  Maya Kuhlmann *(Karlsruhe Institute of Technology)*, Paul Bergmann *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
+
+#### 17:10 – 17:50 “Future of ROBUST” Discussion
 
 #### 19:30 Social Event
 - Joint dinner at [Kulisse](https://kulisse-erlangen.de)
 
 
 ### Thursday (2026-10-08)
-#### 08:30 – 09:00 Coffee and “Future of ROBUST” Discussion
-
 #### 09:00 – 09:40
 - <a href="assets/abstracts/Speculatively-Ordered-Reads-BFT-SMR.pdf">**Speculatively Ordered Reads for Byzantine Fault-Tolerant State-Machine Replication**</a>
   
