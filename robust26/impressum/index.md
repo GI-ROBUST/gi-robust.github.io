@@ -46,7 +46,7 @@ E-Mail: [webmaster@i4.informatik.uni-erlangen.de](mailto:webmaster@i4.informatik
 
 ## Redaktion und technische Ansprechpartner
 
-Paul Bergmann
+Paul Franke-Bergmann
 
 E-Mail: [aods@cs.fau.de](mailto:aods@cs.fau.de)
 
