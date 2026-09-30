@@ -163,24 +163,20 @@ In the evening, there will be a social event in form of a joint dinner.
 
 #### 14:00 – 14:20 Break
 
-#### 14:20 – 15:00
+#### 14:20 – 15:40 Session 1 (Chair: Franz J. Hauck)
 - <a href="assets/abstracts/Asynchronous-BFT-Micro-Replication.pdf">**Towards Asynchronous BFT Micro Replication**</a>
   
   Theresa Schlicht *(University of Bamberg)*, Tobias Distler *(University of Bamberg)*
-
-#### 15:00 – 15:40
 - <a href="assets/abstracts/Diversifying-Fault-Tolerant-Systems-LLMs.pdf">**Diversifying Fault-Tolerant Systems using LLMs**</a>
   
   Arne Vogel *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Christian Berger *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Rüdiger Kapitza *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
 
 #### 15:40 – 15:50 Break
 
-#### 15:50 – 16:30
+#### 15:50 – 17:10 Session 2 (Chair: Tobias Distler)
 - <a href="assets/abstracts/DAG-based-BFT-via-TEEs.pdf">**Breaking the Latency Barrier: 310ms Asynchronous DAG-based BFT Atomic Broadcasts via TEEs**</a>
   
   Maya Kuhlmann *(Karlsruhe Institute of Technology)*, Paul Franke-Bergmann *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
-
-#### 16:30 – 17:10
 - <a href="assets/abstracts/DAG-based-BAB-in-SMR.pdf">**Neither Optional nor Free: DAG-based Byzantine Atomic Broadcast in the Context of State Machine Replication**</a>
   
   Paul Franke-Bergmann *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Maya Kuhlmann *(Karlsruhe Institute of Technology)*
@@ -192,17 +188,13 @@ In the evening, there will be a social event in form of a joint dinner.
 
 
 ### Thursday (2026-10-08)
-#### 09:00 – 09:40
+#### 09:00 – 11:00 Session 3 (Chair: Leander Jehl)
 - <a href="assets/abstracts/Speculatively-Ordered-Reads-BFT-SMR.pdf">**Speculatively Ordered Reads for Byzantine Fault-Tolerant State-Machine Replication**</a>
   
   Alexander Heß *(Ulm University)*, Franz J. Hauck *(Ulm University)*
-
-#### 09:40 – 10:20
 - <a href="assets/abstracts/Correlation-Aware-BFT.pdf">**Correlation-Aware Byzantine Fault Tolerance**</a>
   
   Benjamin Haag *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Christian Berger *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
-
-#### 10:20 – 11:00
 - <a href="assets/abstracts/Fault-Tolerant-Decentralized-Learning.pdf">**Categorizing Fault-Tolerant Decentralized Learning along the Axes of Privacy, Robustness, and Efficiency**</a>
   
   Niklas Hemken *(Karlsruhe Institute of Technology)*
