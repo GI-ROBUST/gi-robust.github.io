@@ -167,9 +167,9 @@ In the evening, there will be a social event in form of a joint dinner.
 - <a href="assets/abstracts/Asynchronous-BFT-Micro-Replication.pdf">**Towards Asynchronous BFT Micro Replication**</a>
   
   Theresa Schlicht *(University of Bamberg)*, Tobias Distler *(University of Bamberg)*
-- <a href="assets/abstracts/Diversifying-Fault-Tolerant-Systems-LLMs.pdf">**Diversifying Fault-Tolerant Systems using LLMs**</a>
+- <a href="assets/abstracts/Speculatively-Ordered-Reads-BFT-SMR.pdf">**Speculatively Ordered Reads for Byzantine Fault-Tolerant State-Machine Replication**</a>
   
-  Arne Vogel *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Christian Berger *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Rüdiger Kapitza *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
+  Alexander Heß *(Ulm University)*, Franz J. Hauck *(Ulm University)*
 
 #### 15:40 – 15:50 Break
 
@@ -189,9 +189,9 @@ In the evening, there will be a social event in form of a joint dinner.
 
 ### Thursday (2026-10-08)
 #### 09:00 – 11:00 Session 3 (Chair: Leander Jehl)
-- <a href="assets/abstracts/Speculatively-Ordered-Reads-BFT-SMR.pdf">**Speculatively Ordered Reads for Byzantine Fault-Tolerant State-Machine Replication**</a>
+- <a href="assets/abstracts/Diversifying-Fault-Tolerant-Systems-LLMs.pdf">**Diversifying Fault-Tolerant Systems using LLMs**</a>
   
-  Alexander Heß *(Ulm University)*, Franz J. Hauck *(Ulm University)*
+  Arne Vogel *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Christian Berger *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Rüdiger Kapitza *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
 - <a href="assets/abstracts/Correlation-Aware-BFT.pdf">**Correlation-Aware Byzantine Fault Tolerance**</a>
   
   Benjamin Haag *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Christian Berger *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
