@@ -171,9 +171,9 @@ In the evening, there will be a social event in form of a joint dinner.
   
   Alexander Heß *(Ulm University)*, Franz J. Hauck *(Ulm University)*
 
-#### 15:40 – 15:50 Break
+#### 15:40 – 16:00 Break
 
-#### 15:50 – 17:10 Session 2 (Chair: Tobias Distler)
+#### 16:00 – 17:20 Session 2 (Chair: Tobias Distler)
 - <a href="assets/abstracts/DAG-based-BFT-via-TEEs.pdf">**Breaking the Latency Barrier: 310ms Asynchronous DAG-based BFT Atomic Broadcasts via TEEs**</a>
   
   Maya Kuhlmann *(Karlsruhe Institute of Technology)*, Paul Franke-Bergmann *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
@@ -181,17 +181,12 @@ In the evening, there will be a social event in form of a joint dinner.
   
   Paul Franke-Bergmann *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Maya Kuhlmann *(Karlsruhe Institute of Technology)*
 
-#### 17:10 – 17:50 “Future of ROBUST” Discussion
-
-#### 19:30 Social Event
-- Joint dinner at [Kulisse](https://kulisse-erlangen.de)
+#### 19:00 Social Event
+- Joint dinner at [Kulisse](https://kulisse-erlangen.de), Theaterstraße 8, 91054 Erlangen
 
 
 ### Thursday (2026-10-08)
-#### 09:00 – 11:00 Session 3 (Chair: Leander Jehl)
-- <a href="assets/abstracts/Diversifying-Fault-Tolerant-Systems-LLMs.pdf">**Diversifying Fault-Tolerant Systems using LLMs**</a>
-  
-  Arne Vogel *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Christian Berger *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Rüdiger Kapitza *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
+#### 09:00 – 10:20 Session 3 (Chair: Leander Jehl)
 - <a href="assets/abstracts/Correlation-Aware-BFT.pdf">**Correlation-Aware Byzantine Fault Tolerance**</a>
   
   Benjamin Haag *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*, Christian Berger *(Friedrich-Alexander-Universität Erlangen-Nürnberg)*
@@ -199,6 +194,9 @@ In the evening, there will be a social event in form of a joint dinner.
   
   Niklas Hemken *(Karlsruhe Institute of Technology)*
 
-#### 11:00 – 11:10 Farewell
+#### 10:20 – 10:50 Open Discussion
+- About the future of the ROBUST workshop series
+
+#### 10:50 – 11:00 Farewell
 
 #### 12:00 – 18:00 [FGBS SIG Meeting](https://fg-bs.gi.de/aktivitaeten/treffen/2026-erlangen)
